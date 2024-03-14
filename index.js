@@ -64,7 +64,7 @@ async function processPdfs() {
   flush(donners, "donners");
   flush(parties, "parties");
 }
-processPdfs();
+// processPdfs();
 
 async function run() {
   const donners = await readJsonFile("./out/donners.json");

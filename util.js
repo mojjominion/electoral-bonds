@@ -17,7 +17,7 @@ export function grouper(getKey) {
     return acc;
   };
 }
-const formatter = new Intl.NumberFormat("en-IN", {
+export const formatter = new Intl.NumberFormat("en-IN", {
   style: "currency",
   currency: "INR",
   minimumFractionDigits: 0, // (this suffices for whole numbers, but will print 2500.10 as $2,500.1)
