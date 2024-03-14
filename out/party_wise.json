@@ -3,6 +3,7 @@
     "party": "ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM",
     "totalTransactions": 38,
     "totalAmount": 60500000,
+    "totalAmountString": "₹6,05,00,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -162,6 +163,7 @@
     "party": "BHARAT RASHTRA SAMITHI",
     "totalTransactions": 1771,
     "totalAmount": 11930389000,
+    "totalAmountString": "₹11,93,03,89,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -7253,6 +7255,7 @@
     "party": "BHARTIYA JANTA PARTY",
     "totalTransactions": 8444,
     "totalAmount": 59288681000,
+    "totalAmountString": "₹59,28,86,81,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -41036,6 +41039,7 @@
     "party": "PRESIDENT, ALL INDIA CONGRESS COMMITTEE",
     "totalTransactions": 3088,
     "totalAmount": 13961035000,
+    "totalAmountString": "₹13,96,10,35,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -53395,6 +53399,7 @@
     "party": "SHIVSENA (POLITICAL PARTY)",
     "totalTransactions": 347,
     "totalAmount": 1552613000,
+    "totalAmountString": "₹1,55,26,13,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -54790,6 +54795,7 @@
     "party": "TELUGU DESAM PARTY",
     "totalTransactions": 274,
     "totalAmount": 2147800000,
+    "totalAmountString": "₹2,14,78,00,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -55893,6 +55899,7 @@
     "party": "YSR CONGRESS PARTY (YUVAJANA SRAMIKA R",
     "totalTransactions": 461,
     "totalAmount": 3287900000,
+    "totalAmountString": "₹3,28,79,00,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -57744,6 +57751,7 @@
     "party": "DMK PARTY IN PARLIAMENT",
     "totalTransactions": 633,
     "totalAmount": 6240000000,
+    "totalAmountString": "₹6,24,00,00,000",
     "transactions": [
       {
         "date": "15/Apr/2019",
@@ -60283,6 +60291,7 @@
     "party": "JANATA DAL ( SECULAR )",
     "totalTransactions": 74,
     "totalAmount": 434000000,
+    "totalAmountString": "₹43,40,00,000",
     "transactions": [
       {
         "date": "15/Apr/2019",
@@ -60586,6 +60595,7 @@
     "party": "NATIONALIST CONGRESS PARTY PARLIAMENT OF",
     "totalTransactions": 114,
     "totalAmount": 303900000,
+    "totalAmountString": "₹30,39,00,000",
     "transactions": [
       {
         "date": "15/Apr/2019",
@@ -61049,6 +61059,7 @@
     "party": "ALL INDIA TRINAMOOL CONGRESS",
     "totalTransactions": 3231,
     "totalAmount": 15743304000,
+    "totalAmountString": "₹15,74,33,04,000",
     "transactions": [
       {
         "date": "16/Apr/2019",
@@ -73980,6 +73991,7 @@
     "party": "BIHAR PRADESH JANTA DAL(UNITED)",
     "totalTransactions": 14,
     "totalAmount": 140000000,
+    "totalAmountString": "₹14,00,00,000",
     "transactions": [
       {
         "date": "16/Apr/2019",
@@ -74043,6 +74055,7 @@
     "party": "RASTRIYA JANTA DAL",
     "totalTransactions": 145,
     "totalAmount": 721000000,
+    "totalAmountString": "₹72,10,00,000",
     "transactions": [
       {
         "date": "16/Apr/2019",
@@ -74630,6 +74643,7 @@
     "party": "AAM AADMI PARTY",
     "totalTransactions": 242,
     "totalAmount": 653300000,
+    "totalAmountString": "₹65,33,00,000",
     "transactions": [
       {
         "date": "18/Apr/2019",
@@ -75605,6 +75619,7 @@
     "party": "ADYAKSHA SAMAJVADI PARTY",
     "totalTransactions": 46,
     "totalAmount": 140500000,
+    "totalAmountString": "₹14,05,00,000",
     "transactions": [
       {
         "date": "18/Apr/2019",
@@ -75796,6 +75811,7 @@
     "party": "SHIROMANI AKALI DAL",
     "totalTransactions": 33,
     "totalAmount": 72600000,
+    "totalAmountString": "₹7,26,00,000",
     "transactions": [
       {
         "date": "20/Apr/2019",
@@ -75935,6 +75951,7 @@
     "party": "JHARKHAND MUKTI MORCHA",
     "totalTransactions": 45,
     "totalAmount": 135000000,
+    "totalAmountString": "₹13,50,00,000",
     "transactions": [
       {
         "date": "23/Apr/2019",
@@ -76122,6 +76139,7 @@
     "party": "JAMMU AND KASHMIR NATIONAL CONFERENCE",
     "totalTransactions": 5,
     "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
     "transactions": [
       {
         "date": "29/Apr/2019",
@@ -76149,6 +76167,7 @@
     "party": "BIJU JANATA DAL",
     "totalTransactions": 843,
     "totalAmount": 7602000000,
+    "totalAmountString": "₹7,60,20,00,000",
     "transactions": [
       {
         "date": "20/Jul/2019",
@@ -79528,6 +79547,7 @@
     "party": "SHIVSENA",
     "totalTransactions": 1,
     "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
     "transactions": [
       {
         "date": "09/Oct/2019",
@@ -79539,6 +79559,7 @@
     "party": "NATIONALIST CONGRESS PARTY MAHARASHTRA PRADESH",
     "totalTransactions": 5,
     "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
     "transactions": [
       {
         "date": "10/Oct/2019",
@@ -79566,6 +79587,7 @@
     "party": "GOA FORWARD PARTY",
     "totalTransactions": 16,
     "totalAmount": 2500000,
+    "totalAmountString": "₹25,00,000",
     "transactions": [
       {
         "date": "12/Jan/2022",
@@ -79637,6 +79659,7 @@
     "party": "MAHARASHTRAWADI GOMNTAK PARTY",
     "totalTransactions": 27,
     "totalAmount": 5400000,
+    "totalAmountString": "₹54,00,000",
     "transactions": [
       {
         "date": "18/Jan/2022",
@@ -79752,6 +79775,7 @@
     "party": "SIKKIM KRANTIKARI MORCHA",
     "totalTransactions": 50,
     "totalAmount": 365000000,
+    "totalAmountString": "₹36,50,00,000",
     "transactions": [
       {
         "date": "13/Oct/2022",
@@ -79959,6 +79983,7 @@
     "party": "JANASENA PARTY",
     "totalTransactions": 38,
     "totalAmount": 209000000,
+    "totalAmountString": "₹20,90,00,000",
     "transactions": [
       {
         "date": "20/Oct/2022",
@@ -80118,6 +80143,7 @@
     "party": "RASHTRIYA JANTA DAL",
     "totalTransactions": 1,
     "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
     "transactions": [
       {
         "date": "18/Jul/2023",
@@ -80129,6 +80155,7 @@
     "party": "SIKKIM DEMOCRATIC FRONT",
     "totalTransactions": 10,
     "totalAmount": 55000000,
+    "totalAmountString": "₹5,50,00,000",
     "transactions": [
       {
         "date": "10/Nov/2023",
