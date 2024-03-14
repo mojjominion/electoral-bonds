@@ -1,7 +1,10 @@
 import { readFileSync, writeFile } from "fs";
 import { getDocument } from "pdfjs-dist";
-import { donner_aggregate, party_aggregate } from "./util.js";
+import { donner_aggregate, party_aggregate, isName } from "./util.js";
 import { readJsonFile } from "./json.js";
+
+const DateRegex =
+  /\d{1,2}\/(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\/\d{4}/;
 
 async function reader(filePath, isParty = false) {
   // Read the PDF file
@@ -13,17 +16,26 @@ async function reader(filePath, isParty = false) {
     const numPages = pdf.numPages;
     for (let pageNum = 1; pageNum <= numPages; pageNum++) {
       const page = await pdf.getPage(pageNum);
-      const textContent = await page.getTextContent();
+      const textContent = await page.getTextContent({
+        normalizeWhitespace: true,
+        // disableCombineTextItems: true,
+      });
       const pageText = textContent.items
         .filter((x) => !!x.str.toString().trim())
         .map((x) => x.str);
 
-      const index = pageNum == 1 && isParty ? 4 : 3;
-      for (let i = index; i + 2 < pageText.length; i += 3) {
+      const indexes = pageText
+        .map((x, i) => (DateRegex.test(x) ? i : -1))
+        .filter((x) => x > -1);
+
+      for (let i = 0; i + 1 < indexes.length; i += 1) {
+        const curIndex = indexes[i];
+        const nextIndex = indexes[i + 1];
+        const names = pageText.slice(curIndex + 1, nextIndex - 1);
         rows.push({
-          date: pageText[i],
-          [isParty ? "party" : "donner"]: pageText[i + 1],
-          value: pageText[i + 2],
+          date: pageText[curIndex],
+          [isParty ? "party" : "donner"]: names.join(" "),
+          value: pageText[nextIndex - 1],
         });
       }
     }
@@ -47,11 +59,12 @@ function flush(data, name) {
 
 async function processPdfs() {
   const donners = await reader("./donners.pdf");
-  const parties = await reader("./parties.pdf", 4);
+  const parties = await reader("./parties.pdf", true);
 
   flush(donners, "donners");
   flush(parties, "parties");
 }
+processPdfs();
 
 async function run() {
   const donners = await readJsonFile("./out/donners.json");
@@ -62,5 +75,4 @@ async function run() {
   flush(d, "donner_wise");
   flush(p, "party_wise");
 }
-
-run();
+// run();

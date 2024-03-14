@@ -138,8 +138,8 @@
   {
     "donner": "ESSEL MINING AND INDS LTD",
     "totalTransactions": 234,
-    "totalAmount": 2214000000,
-    "totalAmountString": "₹2,21,40,00,000",
+    "totalAmount": 2205000000,
+    "totalAmountString": "₹2,20,50,00,000",
     "transactions": [
       {
         "date": "12/Apr/2019",
@@ -255,7 +255,7 @@
       },
       {
         "date": "12/Apr/2019",
-        "amount": 10000000
+        "amount": 1000000
       },
       {
         "date": "12/Apr/2019",
@@ -1490,10 +1490,6 @@
         "amount": 10000000
       },
       {
-        "date": "12/Apr/2019",
-        "amount": 10000000
-      },
-      {
         "date": "16/Apr/2019",
         "amount": 10000000
       },
@@ -2047,6 +2043,10 @@
       },
       {
         "date": "03/Apr/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2021",
         "amount": 10000000
       },
       {
@@ -4529,10 +4529,14 @@
   },
   {
     "donner": "MERLIN RECREATION PVT LTD",
-    "totalTransactions": 6,
-    "totalAmount": 2400000,
-    "totalAmountString": "₹24,00,000",
+    "totalTransactions": 7,
+    "totalAmount": 2500000,
+    "totalAmountString": "₹25,00,000",
     "transactions": [
+      {
+        "date": "12/Apr/2019",
+        "amount": 100000
+      },
       {
         "date": "12/Apr/2019",
         "amount": 1000000
@@ -5049,14 +5053,10 @@
   },
   {
     "donner": "TEXPORT CREATION",
-    "totalTransactions": 9,
-    "totalAmount": 9000000,
-    "totalAmountString": "₹90,00,000",
+    "totalTransactions": 8,
+    "totalAmount": 8000000,
+    "totalAmountString": "₹80,00,000",
     "transactions": [
-      {
-        "date": "12/Apr/2019",
-        "amount": 1000000
-      },
       {
         "date": "12/Apr/2019",
         "amount": 1000000
@@ -5093,10 +5093,14 @@
   },
   {
     "donner": "ALOK NARAYAN PANDEY",
-    "totalTransactions": 6,
-    "totalAmount": 24000000,
-    "totalAmountString": "₹2,40,00,000",
+    "totalTransactions": 7,
+    "totalAmount": 34000000,
+    "totalAmountString": "₹3,40,00,000",
     "transactions": [
+      {
+        "date": "15/Apr/2019",
+        "amount": 10000000
+      },
       {
         "date": "15/Apr/2019",
         "amount": 1000000
@@ -5328,347 +5332,103 @@
     ]
   },
   {
-    "donner": "MOHINDER",
-    "totalTransactions": 3,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "MOHINDER KUMAR JAIN",
+    "totalTransactions": 7,
+    "totalAmount": 2500000,
+    "totalAmountString": "₹25,00,000",
     "transactions": [
       {
         "date": "15/Apr/2019",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "15/Apr/2019",
-        "amount": null
-      },
-      {
-        "date": "15/Apr/2019",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "15/Apr/2019",
-    "totalTransactions": 16,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "1,00,000",
-    "totalTransactions": 55,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "KUMAR JAIN",
-        "amount": null
-      },
-      {
-        "date": "KUMAR JAIN",
-        "amount": null
-      },
-      {
-        "date": "KISHORE KUMAR REDDY",
-        "amount": null
-      },
-      {
-        "date": "KISHORE KUMAR REDDY",
-        "amount": null
-      },
-      {
-        "date": "PEDDIREDDY RAMANJANEYA REDDY",
-        "amount": null
-      },
-      {
-        "date": "PEDDIREDDY RAMANJANEYA REDDY",
-        "amount": null
-      },
-      {
-        "date": "PEDDIREDDY RAMANJANEYA REDDY",
-        "amount": null
-      },
-      {
-        "date": "PEDDIREDDY RAMANJANEYA REDDY",
-        "amount": null
-      },
-      {
-        "date": "PEDDIREDDY RAMANJANEYA REDDY",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "PREMCHAND GODHA",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "KUMAR ROY",
-        "amount": null
-      },
-      {
-        "date": "KUMAR ROY",
-        "amount": null
-      },
-      {
-        "date": "AJIT KUMAR JAIN",
-        "amount": null
-      },
-      {
-        "date": "AJIT KUMAR JAIN",
-        "amount": null
-      },
-      {
-        "date": "AMRITA AGARWAL",
-        "amount": null
-      },
-      {
-        "date": "AMRITA AGARWAL",
-        "amount": null
-      },
-      {
-        "date": "AMRITA AGARWAL",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ANIL KUMAR MALAWAT",
-        "amount": null
-      },
-      {
-        "date": "ARUN KUMAR JOSHI",
-        "amount": null
-      },
-      {
-        "date": "ARUN KUMAR JOSHI",
-        "amount": null
-      },
-      {
-        "date": "ARUN KUMAR JOSHI",
-        "amount": null
-      },
-      {
-        "date": "ARUN KUMAR JOSHI",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "KUMAR JAIN",
-    "totalTransactions": 2,
-    "totalAmount": 200000,
-    "totalAmountString": "₹2,00,000",
-    "transactions": [
-      {
-        "date": "MOHINDER",
         "amount": 100000
       },
       {
-        "date": "MOHINDER",
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "donner": "MR RAJ DEEPAK VARSHNEY",
+    "totalTransactions": 5,
+    "totalAmount": 500000,
+    "totalAmountString": "₹5,00,000",
+    "transactions": [
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
         "amount": 100000
       }
     ]
   },
   {
     "donner": "MS PEARL GLOBAL INDUSTRIES LTD FORM",
-    "totalTransactions": 7,
-    "totalAmount": 7000000,
-    "totalAmountString": "₹70,00,000",
+    "totalTransactions": 14,
+    "totalAmount": 14000000,
+    "totalAmountString": "₹1,40,00,000",
     "transactions": [
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 1000000
+      },
       {
         "date": "15/Apr/2019",
         "amount": 1000000
@@ -5712,399 +5472,251 @@
     ]
   },
   {
-    "donner": "PAPPI REDDY",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "PAPPI REDDY KISHORE KUMAR REDDY",
+    "totalTransactions": 5,
+    "totalAmount": 500000,
+    "totalAmountString": "₹5,00,000",
     "transactions": [
       {
         "date": "15/Apr/2019",
-        "amount": null
+        "amount": 100000
       },
       {
         "date": "15/Apr/2019",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "KISHORE KUMAR REDDY",
-    "totalTransactions": 1,
-    "totalAmount": 100000,
-    "totalAmountString": "₹1,00,000",
-    "transactions": [
+        "amount": 100000
+      },
       {
-        "date": "PAPPI REDDY",
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
+      {
+        "date": "15/Apr/2019",
         "amount": 100000
       }
     ]
   },
   {
-    "donner": "1,00,00,000",
-    "totalTransactions": 88,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "PEDDIREDDY RAMANJANEYA REDDY",
+    "totalTransactions": 5,
+    "totalAmount": 500000,
+    "totalAmountString": "₹5,00,000",
     "transactions": [
       {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PRL DEVELOPERS PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "DLF COMMERCIAL DEVELOPERS LIMITED",
-        "amount": null
-      },
-      {
-        "date": "DLF COMMERCIAL DEVELOPERS LIMITED",
-        "amount": null
-      },
-      {
-        "date": "DLF COMMERCIAL DEVELOPERS LIMITED",
-        "amount": null
-      },
-      {
-        "date": "DLF COMMERCIAL DEVELOPERS LIMITED",
-        "amount": null
-      },
-      {
-        "date": "DLF COMMERCIAL DEVELOPERS LIMITED",
-        "amount": null
-      },
-      {
-        "date": "DLF COMMERCIAL DEVELOPERS LIMITED",
-        "amount": null
-      },
-      {
-        "date": "PARKS PVT. LTD",
-        "amount": null
-      },
+        "date": "15/Apr/2019",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "PREMCHAND GODHA",
+    "totalTransactions": 22,
+    "totalAmount": 2200000,
+    "totalAmountString": "₹22,00,000",
+    "transactions": [
       {
-        "date": "PARKS PVT. LTD",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "INFINA FINANCE PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "INFINA FINANCE PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "INFINA FINANCE PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "INFINA FINANCE PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "FINANCE PVT",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "LAL PATNI",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "MOHIT MINERALS LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "THAKURDAS JAISINGHANI",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "THAKURDAS JAISINGHANI",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "THAKURDAS JAISINGHANI",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "INFRA PRIVATE LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PARESH CHAMPAKLAL SHAH",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE GARDEN ESTATES PRIVATE LIM",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE GARDEN ESTATES PRIVATE LIM",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE GARDEN ESTATES PRIVATE LIM",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE GARDEN ESTATES PRIVATE LIM",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE GARDEN ESTATES PRIVATE LIM",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE PROJECTS PVT LTD",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE PROJECTS PVT LTD",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE PROJECTS PVT LTD",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 100000
       },
       {
-        "date": "PRESTIGE PROJECTS PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "PRESTIGE PROJECTS PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "GENUS POWER INFRASTRUCTURES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "HH IRON AND STEEL PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "HH IRON AND STEEL PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "HH IRON AND STEEL PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "HH IRON AND STEEL PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "HH IRON AND STEEL PRIVATE LIMITED",
-        "amount": null
-      },
-      {
-        "date": "IFB AGRO INDUSTRIES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "IFB AGRO INDUSTRIES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "IFB AGRO INDUSTRIES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "IFB AGRO INDUSTRIES LIMITED",
-        "amount": null
-      },
-      {
-        "date": "IFB AGRO INDUSTRIES LIMITED",
-        "amount": null
-      },
+        "date": "15/Apr/2019",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "PRL DEVELOPERS PRIVATE LIMITED",
+    "totalTransactions": 19,
+    "totalAmount": 190000000,
+    "totalAmountString": "₹19,00,00,000",
+    "transactions": [
       {
-        "date": "IFB AGRO INDUSTRIES LIMITED",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "THAKURDAS JAISINGHANI",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "CONSULTANCY LLP",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "KUMAR MODI",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "ASMITA MERCHA",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "CONSULTANCY LLP",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "G S ISPAT",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "G S ISPAT",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "G S ISPAT",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "G S ISPAT",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "INORBIT MALLS INDIA PRIVATE LIMIT",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       },
       {
-        "date": "INORBIT MALLS INDIA PRIVATE LIMIT",
-        "amount": null
+        "date": "15/Apr/2019",
+        "amount": 10000000
       }
     ]
   },
   {
     "donner": "RAVINDER AGARWAL",
-    "totalTransactions": 7,
-    "totalAmount": 700000,
-    "totalAmountString": "₹7,00,000",
+    "totalTransactions": 8,
+    "totalAmount": 800000,
+    "totalAmountString": "₹8,00,000",
     "transactions": [
+      {
+        "date": "15/Apr/2019",
+        "amount": 100000
+      },
       {
         "date": "15/Apr/2019",
         "amount": 100000
@@ -6409,9 +6021,9 @@
   },
   {
     "donner": "UTKAL ALUMINA INTERNATIONAL LIMITED",
-    "totalTransactions": 137,
-    "totalAmount": 1343000000,
-    "totalAmountString": "₹1,34,30,00,000",
+    "totalTransactions": 136,
+    "totalAmount": 1333000000,
+    "totalAmountString": "₹1,33,30,00,000",
     "transactions": [
       {
         "date": "15/Apr/2019",
@@ -6563,10 +6175,6 @@
       },
       {
         "date": "12/Dec/2022",
-        "amount": 10000000
-      },
-      {
-        "date": "11/Jul/2023",
         "amount": 10000000
       },
       {
@@ -6966,8 +6574,8 @@
   {
     "donner": "VARDHMAN TEXTILES LTD",
     "totalTransactions": 49,
-    "totalAmount": 171400000,
-    "totalAmountString": "₹17,14,00,000",
+    "totalAmount": 170500000,
+    "totalAmountString": "₹17,05,00,000",
     "transactions": [
       {
         "date": "15/Apr/2019",
@@ -6975,7 +6583,7 @@
       },
       {
         "date": "15/Apr/2019",
-        "amount": 1000000
+        "amount": 100000
       },
       {
         "date": "15/Apr/2019",
@@ -8669,9 +8277,9 @@
   },
   {
     "donner": "PEGASUS PROPERTIES PVT LTD",
-    "totalTransactions": 19,
-    "totalAmount": 100000000,
-    "totalAmountString": "₹10,00,00,000",
+    "totalTransactions": 18,
+    "totalAmount": 99000000,
+    "totalAmountString": "₹9,90,00,000",
     "transactions": [
       {
         "date": "16/Apr/2019",
@@ -8740,10 +8348,6 @@
       {
         "date": "16/Apr/2019",
         "amount": 10000000
-      },
-      {
-        "date": "16/Apr/2019",
-        "amount": 1000000
       },
       {
         "date": "16/Apr/2019",
@@ -8753,10 +8357,14 @@
   },
   {
     "donner": "POLINA GANESWARARAO",
-    "totalTransactions": 3,
-    "totalAmount": 300000,
-    "totalAmountString": "₹3,00,000",
+    "totalTransactions": 4,
+    "totalAmount": 400000,
+    "totalAmountString": "₹4,00,000",
     "transactions": [
+      {
+        "date": "16/Apr/2019",
+        "amount": 100000
+      },
       {
         "date": "16/Apr/2019",
         "amount": 100000
@@ -9313,9 +8921,9 @@
   },
   {
     "donner": "UM CABLES LIMITED",
-    "totalTransactions": 44,
-    "totalAmount": 44000000,
-    "totalAmountString": "₹4,40,00,000",
+    "totalTransactions": 45,
+    "totalAmount": 45000000,
+    "totalAmountString": "₹4,50,00,000",
     "transactions": [
       {
         "date": "16/Apr/2019",
@@ -9395,6 +9003,10 @@
       },
       {
         "date": "16/Apr/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "07/May/2019",
         "amount": 1000000
       },
       {
@@ -9498,8 +9110,8 @@
   {
     "donner": "VEDANTA LIMITED",
     "totalTransactions": 378,
-    "totalAmount": 3686400000,
-    "totalAmountString": "₹3,68,64,00,000",
+    "totalAmount": 3676500000,
+    "totalAmountString": "₹3,67,65,00,000",
     "transactions": [
       {
         "date": "16/Apr/2019",
@@ -9567,7 +9179,7 @@
       },
       {
         "date": "16/Apr/2019",
-        "amount": 10000000
+        "amount": 100000
       },
       {
         "date": "16/Apr/2019",
@@ -10834,7 +10446,7 @@
         "amount": 10000000
       },
       {
-        "date": "12/Jul/2023",
+        "date": "11/Jul/2023",
         "amount": 10000000
       },
       {
@@ -11125,14 +10737,10 @@
   },
   {
     "donner": "RAJEEV KUMAR JAIN",
-    "totalTransactions": 2,
-    "totalAmount": 2000000,
-    "totalAmountString": "₹20,00,000",
+    "totalTransactions": 1,
+    "totalAmount": 1000000,
+    "totalAmountString": "₹10,00,000",
     "transactions": [
-      {
-        "date": "17/Apr/2019",
-        "amount": 1000000
-      },
       {
         "date": "17/Apr/2019",
         "amount": 1000000
@@ -11141,10 +10749,14 @@
   },
   {
     "donner": "AISHWARYA BUSINESS CORPORATION PVT, LTD",
-    "totalTransactions": 13,
-    "totalAmount": 49000000,
-    "totalAmountString": "₹4,90,00,000",
+    "totalTransactions": 14,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
+      {
+        "date": "18/Apr/2019",
+        "amount": 1000000
+      },
       {
         "date": "18/Apr/2019",
         "amount": 1000000
@@ -12509,14 +12121,10 @@
   },
   {
     "donner": "RICHA & CO",
-    "totalTransactions": 5,
-    "totalAmount": 5000000,
-    "totalAmountString": "₹50,00,000",
+    "totalTransactions": 4,
+    "totalAmount": 4000000,
+    "totalAmountString": "₹40,00,000",
     "transactions": [
-      {
-        "date": "18/Apr/2019",
-        "amount": 1000000
-      },
       {
         "date": "18/Apr/2019",
         "amount": 1000000
@@ -12537,10 +12145,14 @@
   },
   {
     "donner": "RICHA GLOBAL EXPORTS PRIVATE LIMITED",
-    "totalTransactions": 9,
-    "totalAmount": 9000000,
-    "totalAmountString": "₹90,00,000",
+    "totalTransactions": 10,
+    "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
     "transactions": [
+      {
+        "date": "18/Apr/2019",
+        "amount": 1000000
+      },
       {
         "date": "18/Apr/2019",
         "amount": 1000000
@@ -14192,355 +13804,175 @@
     ]
   },
   {
-    "donner": "EDELWEISS RURAL",
-    "totalTransactions": 4,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "EDELWEISS RURAL CORPORATE SERVICE",
+    "totalTransactions": 10,
+    "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
     "transactions": [
       {
         "date": "06/May/2019",
-        "amount": null
-      },
-      {
-        "date": "06/May/2019",
-        "amount": null
-      },
-      {
-        "date": "06/May/2019",
-        "amount": null
-      },
-      {
-        "date": "06/May/2019",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "06/May/2019",
-    "totalTransactions": 20,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "10,00,000",
-    "totalTransactions": 51,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "CORPORATE SERVICE",
-        "amount": null
-      },
-      {
-        "date": "CORPORATE SERVICE",
-        "amount": null
-      },
-      {
-        "date": "CORPORATE SERVICE",
-        "amount": null
-      },
-      {
-        "date": "TRADING CO. PVT",
-        "amount": null
-      },
-      {
-        "date": "TRADING CO. PVT",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "CYZACHEM PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "INVESTMENT",
-        "amount": null
-      },
-      {
-        "date": "BROTHER PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "BROTHER PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "BROTHER PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "BROTHER PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "BROTHER PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "PRAKASH DISTILLERY & CHEMICAL CO (P) LT D",
-        "amount": null
-      },
-      {
-        "date": "PRAKASH DISTILLERY & CHEMICAL CO (P) LT D",
-        "amount": null
-      },
-      {
-        "date": "PRAKASH DISTILLERY & CHEMICAL CO (P) LT D",
-        "amount": null
-      },
-      {
-        "date": "PRAKASH DISTILLERY & CHEMICAL CO (P) LT D",
-        "amount": null
-      },
-      {
-        "date": "PRUDHVI CONSTRUCTIONS PRIVATE LIMIT",
-        "amount": null
-      },
-      {
-        "date": "PRUDHVI CONSTRUCTIONS PRIVATE LIMIT",
-        "amount": null
-      },
-      {
-        "date": "PRUDHVI CONSTRUCTIONS PRIVATE LIMIT",
-        "amount": null
-      },
-      {
-        "date": "PRUDHVI CONSTRUCTIONS PRIVATE LIMIT",
-        "amount": null
-      },
-      {
-        "date": "PRUDHVI CONSTRUCTIONS PRIVATE LIMIT",
-        "amount": null
-      },
-      {
-        "date": "PRUDHVI CONSTRUCTIONS PRIVATE LIMIT",
-        "amount": null
-      },
-      {
-        "date": "R INFRATECH INDIA PRIVATE LIM",
-        "amount": null
-      },
-      {
-        "date": "R INFRATECH INDIA PRIVATE LIM",
-        "amount": null
-      },
-      {
-        "date": "R INFRATECH INDIA PRIVATE LIM",
-        "amount": null
-      },
-      {
-        "date": "R INFRATECH INDIA PRIVATE LIM",
-        "amount": null
-      },
-      {
-        "date": "R INFRATECH INDIA PRIVATE LIM",
-        "amount": null
-      },
-      {
-        "date": "MAJJI VENKATA",
-        "amount": null
-      },
-      {
-        "date": "CONTRACTORS PRIVATE LIM",
-        "amount": null
-      },
-      {
-        "date": "CONTRACTORS PRIVATE LIM",
-        "amount": null
-      },
-      {
-        "date": "YOGESH MANNALAL AGRAWAL",
-        "amount": null
-      },
-      {
-        "date": "YOGESH MANNALAL AGRAWAL",
-        "amount": null
-      },
-      {
-        "date": "YOGESH MANNALAL AGRAWAL",
-        "amount": null
-      },
-      {
-        "date": "YOGESH MANNALAL AGRAWAL",
-        "amount": null
-      },
-      {
-        "date": "YOGESH MANNALAL AGRAWAL",
-        "amount": null
-      },
-      {
-        "date": "ABHINANDANSTOCKBROKINGPVTLTD",
-        "amount": null
-      },
-      {
-        "date": "ABHINANDANSTOCKBROKINGPVTLTD",
-        "amount": null
-      },
-      {
-        "date": "ABHINANDANSTOCKBROKINGPVTLTD",
-        "amount": null
-      },
-      {
-        "date": "ABHINANDANSTOCKBROKINGPVTLTD",
-        "amount": null
-      },
-      {
-        "date": "ABHINANDANSTOCKBROKINGPVTLTD",
-        "amount": null
-      },
-      {
-        "date": "ABIS AGROTECH PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "ABIS AGROTECH PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "ABIS AGROTECH PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "ABIS AGROTECH PVT LTD",
-        "amount": null
-      },
-      {
-        "date": "ABIS AGROTECH PVT LTD",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "CORPORATE SERVICE",
-    "totalTransactions": 3,
-    "totalAmount": 3000000,
-    "totalAmountString": "₹30,00,000",
-    "transactions": [
-      {
-        "date": "EDELWEISS RURAL",
         "amount": 1000000
       },
       {
-        "date": "EDELWEISS RURAL",
+        "date": "06/May/2019",
         "amount": 1000000
       },
       {
-        "date": "EDELWEISS RURAL",
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "donner": "FORCE MOTORS LTD",
+    "totalTransactions": 22,
+    "totalAmount": 53500000,
+    "totalAmountString": "₹5,35,00,000",
+    "transactions": [
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 100000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 100000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 100000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 100000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 100000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "11/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "11/Oct/2023",
         "amount": 1000000
       }
     ]
   },
   {
     "donner": "INDUSTRIAL TECHNO MAN POWER SUPPLY AND SERVICES PVT LTD",
-    "totalTransactions": 3,
-    "totalAmount": 30000000,
-    "totalAmountString": "₹3,00,00,000",
+    "totalTransactions": 8,
+    "totalAmount": 80000000,
+    "totalAmountString": "₹8,00,00,000",
     "transactions": [
+      {
+        "date": "06/May/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "06/May/2019",
+        "amount": 10000000
+      },
       {
         "date": "06/May/2019",
         "amount": 10000000
@@ -14977,14 +14409,10 @@
   },
   {
     "donner": "AMBUJA HOUSING AND URBAN INFRASTRUCTURE CO. LTD.",
-    "totalTransactions": 10,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "totalTransactions": 9,
+    "totalAmount": 9000000,
+    "totalAmountString": "₹90,00,000",
     "transactions": [
-      {
-        "date": "07/May/2019",
-        "amount": 1000000
-      },
       {
         "date": "07/May/2019",
         "amount": 1000000
@@ -15025,10 +14453,14 @@
   },
   {
     "donner": "AMBUJA REALTY EVENTS MANAGMENT LTD",
-    "totalTransactions": 14,
-    "totalAmount": 14000000,
-    "totalAmountString": "₹1,40,00,000",
+    "totalTransactions": 15,
+    "totalAmount": 15000000,
+    "totalAmountString": "₹1,50,00,000",
     "transactions": [
+      {
+        "date": "07/May/2019",
+        "amount": 1000000
+      },
       {
         "date": "07/May/2019",
         "amount": 1000000
@@ -15466,10 +14898,6 @@
         "amount": 10000000
       },
       {
-        "date": "04/Jan/2021",
-        "amount": 10000000
-      },
-      {
         "date": "06/Apr/2021",
         "amount": 10000000
       },
@@ -16483,6 +15911,10 @@
       },
       {
         "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Oct/2023",
         "amount": 10000000
       },
       {
@@ -17421,9 +16853,9 @@
   },
   {
     "donner": "TORRENT PHARMACEUTICALS LIMITED",
-    "totalTransactions": 43,
-    "totalAmount": 340000000,
-    "totalAmountString": "₹34,00,00,000",
+    "totalTransactions": 42,
+    "totalAmount": 339000000,
+    "totalAmountString": "₹33,90,00,000",
     "transactions": [
       {
         "date": "07/May/2019",
@@ -17448,10 +16880,6 @@
       {
         "date": "07/May/2019",
         "amount": 10000000
-      },
-      {
-        "date": "07/May/2019",
-        "amount": 1000000
       },
       {
         "date": "10/May/2019",
@@ -19125,24 +18553,40 @@
   },
   {
     "donner": "SARITA MIRANIA AGARWAL",
-    "totalTransactions": 1,
-    "totalAmount": 1000000,
-    "totalAmountString": "₹10,00,000",
+    "totalTransactions": 3,
+    "totalAmount": 3000000,
+    "totalAmountString": "₹30,00,000",
     "transactions": [
       {
         "date": "08/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Apr/2021",
         "amount": 1000000
       }
     ]
   },
   {
     "donner": "SEEMA MIRANIA AGARWAL",
-    "totalTransactions": 1,
-    "totalAmount": 1000000,
-    "totalAmountString": "₹10,00,000",
+    "totalTransactions": 3,
+    "totalAmount": 3000000,
+    "totalAmountString": "₹30,00,000",
     "transactions": [
       {
         "date": "08/May/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Apr/2021",
         "amount": 1000000
       }
     ]
@@ -19380,23 +18824,15 @@
     ]
   },
   {
-    "donner": "HIND TERMINALS PVT LTD",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "donner": "INFOTELACCESSENTERPRISESPL00108",
+    "totalTransactions": 5,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
       {
         "date": "09/May/2019",
         "amount": 10000000
-      }
-    ]
-  },
-  {
-    "donner": "INFOTELACCESSENTERPRISESPL00108",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
-    "transactions": [
+      },
       {
         "date": "09/May/2019",
         "amount": 10000000
@@ -21160,23 +20596,15 @@
     ]
   },
   {
-    "donner": "ALLANA COLD STORAGE",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "donner": "ALLANASONS PRIVATE L",
+    "totalTransactions": 3,
+    "totalAmount": 30000000,
+    "totalAmountString": "₹3,00,00,000",
     "transactions": [
       {
         "date": "09/Jul/2019",
         "amount": 10000000
-      }
-    ]
-  },
-  {
-    "donner": "ALLANASONS PRIVATE L",
-    "totalTransactions": 2,
-    "totalAmount": 20000000,
-    "totalAmountString": "₹2,00,00,000",
-    "transactions": [
+      },
       {
         "date": "09/Jul/2019",
         "amount": 10000000
@@ -21809,9 +21237,9 @@
   },
   {
     "donner": "MKJ ENTERPRISES LTD",
-    "totalTransactions": 83,
-    "totalAmount": 580700000,
-    "totalAmountString": "₹58,07,00,000",
+    "totalTransactions": 89,
+    "totalAmount": 640700000,
+    "totalAmountString": "₹64,07,00,000",
     "transactions": [
       {
         "date": "04/Oct/2019",
@@ -21928,6 +21356,30 @@
       {
         "date": "09/Oct/2019",
         "amount": 1000000
+      },
+      {
+        "date": "03/Jul/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "03/Jul/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "03/Jul/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "03/Jul/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "03/Jul/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "03/Jul/2021",
+        "amount": 10000000
       },
       {
         "date": "05/Jul/2021",
@@ -22696,23 +22148,15 @@
     ]
   },
   {
-    "donner": "AMRITA AGARWAL",
-    "totalTransactions": 1,
-    "totalAmount": 100000,
-    "totalAmountString": "₹1,00,000",
+    "donner": "ANIL CHANDAK",
+    "totalTransactions": 9,
+    "totalAmount": 900000,
+    "totalAmountString": "₹9,00,000",
     "transactions": [
       {
         "date": "09/Oct/2019",
         "amount": 100000
-      }
-    ]
-  },
-  {
-    "donner": "ANIL CHANDAK",
-    "totalTransactions": 8,
-    "totalAmount": 800000,
-    "totalAmountString": "₹8,00,000",
-    "transactions": [
+      },
       {
         "date": "09/Oct/2019",
         "amount": 100000
@@ -22880,55 +22324,123 @@
     ]
   },
   {
-    "donner": "CHANDA INVESTMENT",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "CHANDA INVESTMENT TRADING CO. PVT",
+    "totalTransactions": 5,
+    "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
     "transactions": [
       {
         "date": "09/Oct/2019",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "09/Oct/2019",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "09/Oct/2019",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "10,00,000",
-        "amount": null
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "TRADING CO. PVT",
-    "totalTransactions": 1,
-    "totalAmount": 1000000,
-    "totalAmountString": "₹10,00,000",
-    "transactions": [
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
       {
-        "date": "CHANDA INVESTMENT",
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
         "amount": 1000000
       }
     ]
   },
   {
-    "donner": "DLF COMMERCIAL DEVELOPERS LIMITED",
-    "totalTransactions": 120,
-    "totalAmount": 1200000000,
-    "totalAmountString": "₹1,20,00,00,000",
+    "donner": "CYZACHEM PVT LTD",
+    "totalTransactions": 12,
+    "totalAmount": 7500000,
+    "totalAmountString": "₹75,00,000",
     "transactions": [
+      {
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 100000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 100000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 100000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 100000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "DLF COMMERCIAL DEVELOPERS LIMITED",
+    "totalTransactions": 127,
+    "totalAmount": 1270000000,
+    "totalAmountString": "₹1,27,00,00,000",
+    "transactions": [
+      {
+        "date": "09/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "09/Oct/2019",
+        "amount": 10000000
+      },
       {
         "date": "09/Oct/2019",
         "amount": 10000000
@@ -24289,9 +23801,9 @@
   },
   {
     "donner": "RAJESH KUMAR AGARWAL",
-    "totalTransactions": 16,
-    "totalAmount": 3400000,
-    "totalAmountString": "₹34,00,000",
+    "totalTransactions": 17,
+    "totalAmount": 3500000,
+    "totalAmountString": "₹35,00,000",
     "transactions": [
       {
         "date": "09/Oct/2019",
@@ -24323,6 +23835,10 @@
       },
       {
         "date": "09/Oct/2019",
+        "amount": 100000
+      },
+      {
+        "date": "07/Oct/2021",
         "amount": 100000
       },
       {
@@ -24498,8 +24014,8 @@
   {
     "donner": "SEZ BIOTECH SERVICES PVT LTD",
     "totalTransactions": 11,
-    "totalAmount": 7400000,
-    "totalAmountString": "₹74,00,000",
+    "totalAmount": 6500000,
+    "totalAmountString": "₹65,00,000",
     "transactions": [
       {
         "date": "09/Oct/2019",
@@ -24543,7 +24059,7 @@
       },
       {
         "date": "09/Oct/2019",
-        "amount": 1000000
+        "amount": 100000
       }
     ]
   },
@@ -24808,55 +24324,59 @@
     ]
   },
   {
-    "donner": "GENEXT HARDWARE",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "GENEXT HARDWARE PARKS PVT. LTD",
+    "totalTransactions": 5,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
       {
         "date": "10/Oct/2019",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "10/Oct/2019",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "10/Oct/2019",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "1,00,00,000",
-        "amount": null
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "PARKS PVT. LTD",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
-    "transactions": [
+        "date": "10/Oct/2019",
+        "amount": 10000000
+      },
       {
-        "date": "GENEXT HARDWARE",
+        "date": "10/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2019",
         "amount": 10000000
       }
     ]
   },
   {
     "donner": "INFINA FINANCE PRIVATE LIMITED",
-    "totalTransactions": 53,
-    "totalAmount": 530000000,
-    "totalAmountString": "₹53,00,00,000",
+    "totalTransactions": 58,
+    "totalAmount": 580000000,
+    "totalAmountString": "₹58,00,00,000",
     "transactions": [
+      {
+        "date": "10/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2019",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2019",
+        "amount": 10000000
+      },
       {
         "date": "10/Oct/2019",
         "amount": 10000000
@@ -26462,8 +25982,8 @@
   {
     "donner": "TANUSHREE LOGISTICS PRIVATE LIMITED",
     "totalTransactions": 19,
-    "totalAmount": 55000000,
-    "totalAmountString": "₹5,50,00,000",
+    "totalAmount": 46000000,
+    "totalAmountString": "₹4,60,00,000",
     "transactions": [
       {
         "date": "21/Jan/2020",
@@ -26527,7 +26047,7 @@
       },
       {
         "date": "08/Jan/2021",
-        "amount": 10000000
+        "amount": 1000000
       },
       {
         "date": "08/Jan/2021",
@@ -26677,9 +26197,9 @@
   },
   {
     "donner": "FUTURE GAMING AND HOTEL SERVICES PR",
-    "totalTransactions": 1187,
-    "totalAmount": 11870000000,
-    "totalAmountString": "₹11,87,00,00,000",
+    "totalTransactions": 1186,
+    "totalAmount": 11860000000,
+    "totalAmountString": "₹11,86,00,00,000",
     "transactions": [
       {
         "date": "21/Oct/2020",
@@ -27695,10 +27215,6 @@
       },
       {
         "date": "09/Apr/2021",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2021",
         "amount": 10000000
       },
       {
@@ -31613,12 +31129,16 @@
   },
   {
     "donner": "PRAKASH DISTILLERY & CHEMICAL CO (P) LT D",
-    "totalTransactions": 46,
-    "totalAmount": 20080000,
-    "totalAmountString": "₹2,00,80,000",
+    "totalTransactions": 51,
+    "totalAmount": 25080000,
+    "totalAmountString": "₹2,50,80,000",
     "transactions": [
       {
         "date": "05/Jan/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "05/Jan/2021",
         "amount": 100000
       },
       {
@@ -31751,6 +31271,22 @@
       },
       {
         "date": "12/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
         "amount": 1000000
       },
       {
@@ -32217,9 +31753,9 @@
   },
   {
     "donner": "HIMALAYAN ENDEAVOUR PVT LTD",
-    "totalTransactions": 58,
-    "totalAmount": 121900000,
-    "totalAmountString": "₹12,19,00,000",
+    "totalTransactions": 65,
+    "totalAmount": 128000000,
+    "totalAmountString": "₹12,80,00,000",
     "transactions": [
       {
         "date": "08/Jan/2021",
@@ -32423,6 +31959,34 @@
       },
       {
         "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 100000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
         "amount": 100000
       },
       {
@@ -32470,8 +32034,8 @@
   {
     "donner": "LAXMI INDUSTRIAL BOTTLING PLAN",
     "totalTransactions": 61,
-    "totalAmount": 35350000,
-    "totalAmountString": "₹3,53,50,000",
+    "totalAmount": 33550000,
+    "totalAmountString": "₹3,35,50,000",
     "transactions": [
       {
         "date": "08/Jan/2021",
@@ -32643,6 +32207,14 @@
       },
       {
         "date": "04/Oct/2021",
+        "amount": 100000
+      },
+      {
+        "date": "04/Oct/2021",
+        "amount": 100000
+      },
+      {
+        "date": "04/Oct/2021",
         "amount": 1000000
       },
       {
@@ -32650,14 +32222,6 @@
         "amount": 100000
       },
       {
-        "date": "04/Oct/2021",
-        "amount": 1000000
-      },
-      {
-        "date": "04/Oct/2021",
-        "amount": 100000
-      },
-      {
         "date": "05/Jan/2022",
         "amount": 1000000
       },
@@ -32699,7 +32263,7 @@
       },
       {
         "date": "05/Jan/2022",
-        "amount": 1000000
+        "amount": 100000
       },
       {
         "date": "05/Jan/2022",
@@ -33097,9 +32661,9 @@
   },
   {
     "donner": "SPICEJET LIMITED",
-    "totalTransactions": 14,
-    "totalAmount": 5000000,
-    "totalAmountString": "₹50,00,000",
+    "totalTransactions": 20,
+    "totalAmount": 6500000,
+    "totalAmountString": "₹65,00,000",
     "transactions": [
       {
         "date": "08/Jan/2021",
@@ -33128,6 +32692,30 @@
       {
         "date": "08/Jan/2021",
         "amount": 1000000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 100000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 100000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 100000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 100000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 100000
       },
       {
         "date": "09/Jul/2021",
@@ -33161,9 +32749,9 @@
   },
   {
     "donner": "TRANSWAYS EXIM PRIVATE LTD",
-    "totalTransactions": 23,
-    "totalAmount": 23000000,
-    "totalAmountString": "₹2,30,00,000",
+    "totalTransactions": 24,
+    "totalAmount": 24000000,
+    "totalAmountString": "₹2,40,00,000",
     "transactions": [
       {
         "date": "08/Jan/2021",
@@ -33191,6 +32779,10 @@
       },
       {
         "date": "08/Jan/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "03/Jul/2021",
         "amount": 1000000
       },
       {
@@ -34269,14 +33861,10 @@
   },
   {
     "donner": "BHARTI TELEMEDIA LIMITED",
-    "totalTransactions": 37,
-    "totalAmount": 370000000,
-    "totalAmountString": "₹37,00,00,000",
+    "totalTransactions": 36,
+    "totalAmount": 360000000,
+    "totalAmountString": "₹36,00,00,000",
     "transactions": [
-      {
-        "date": "03/Apr/2021",
-        "amount": 10000000
-      },
       {
         "date": "03/Apr/2021",
         "amount": 10000000
@@ -34425,9 +34013,9 @@
   },
   {
     "donner": "HH IRON AND STEEL PRIVATE LIMITED",
-    "totalTransactions": 14,
-    "totalAmount": 140000000,
-    "totalAmountString": "₹14,00,00,000",
+    "totalTransactions": 20,
+    "totalAmount": 200000000,
+    "totalAmountString": "₹20,00,00,000",
     "transactions": [
       {
         "date": "03/Apr/2021",
@@ -34446,7 +34034,7 @@
         "amount": 10000000
       },
       {
-        "date": "10/Apr/2023",
+        "date": "03/Apr/2021",
         "amount": 10000000
       },
       {
@@ -34483,6 +34071,30 @@
       },
       {
         "date": "10/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
         "amount": 10000000
       }
     ]
@@ -34529,14 +34141,10 @@
   },
   {
     "donner": "MKK METAL SECTIONS P LTD",
-    "totalTransactions": 9,
-    "totalAmount": 90000000,
-    "totalAmountString": "₹9,00,00,000",
+    "totalTransactions": 8,
+    "totalAmount": 80000000,
+    "totalAmountString": "₹8,00,00,000",
     "transactions": [
-      {
-        "date": "03/Apr/2021",
-        "amount": 10000000
-      },
       {
         "date": "03/Apr/2021",
         "amount": 10000000
@@ -34573,10 +34181,14 @@
   },
   {
     "donner": "PHILLIPS CARBON BLACK LIMITED",
-    "totalTransactions": 29,
-    "totalAmount": 290000000,
-    "totalAmountString": "₹29,00,00,000",
+    "totalTransactions": 30,
+    "totalAmount": 300000000,
+    "totalAmountString": "₹30,00,00,000",
     "transactions": [
+      {
+        "date": "03/Apr/2021",
+        "amount": 10000000
+      },
       {
         "date": "03/Apr/2021",
         "amount": 10000000
@@ -34906,8 +34518,8 @@
   {
     "donner": "BALU CEMENT CORPORATION",
     "totalTransactions": 14,
-    "totalAmount": 50000000,
-    "totalAmountString": "₹5,00,00,000",
+    "totalAmount": 59000000,
+    "totalAmountString": "₹5,90,00,000",
     "transactions": [
       {
         "date": "05/Apr/2021",
@@ -34931,7 +34543,7 @@
       },
       {
         "date": "05/Apr/2021",
-        "amount": 1000000
+        "amount": 10000000
       },
       {
         "date": "10/Jan/2022",
@@ -35445,9 +35057,9 @@
   },
   {
     "donner": "JINDAL HOUSE",
-    "totalTransactions": 6,
-    "totalAmount": 60000000,
-    "totalAmountString": "₹6,00,00,000",
+    "totalTransactions": 9,
+    "totalAmount": 90000000,
+    "totalAmountString": "₹9,00,00,000",
     "transactions": [
       {
         "date": "06/Apr/2021",
@@ -35466,7 +35078,19 @@
         "amount": 10000000
       },
       {
-        "date": "06/Apr/2021",
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
         "amount": 10000000
       },
       {
@@ -36082,8 +35706,8 @@
   {
     "donner": "AUSTIN PLYWOOD PRIVATE LIMITED FORMERLY B S PROGRESSIVE PVT",
     "totalTransactions": 24,
-    "totalAmount": 15900000,
-    "totalAmountString": "₹1,59,00,000",
+    "totalAmount": 15000000,
+    "totalAmountString": "₹1,50,00,000",
     "transactions": [
       {
         "date": "08/Apr/2021",
@@ -36179,7 +35803,7 @@
       },
       {
         "date": "06/Jul/2021",
-        "amount": 1000000
+        "amount": 100000
       }
     ]
   },
@@ -36389,9 +36013,9 @@
   },
   {
     "donner": "HARDESH ORES PVT LTD",
-    "totalTransactions": 7,
-    "totalAmount": 70000000,
-    "totalAmountString": "₹7,00,00,000",
+    "totalTransactions": 9,
+    "totalAmount": 90000000,
+    "totalAmountString": "₹9,00,00,000",
     "transactions": [
       {
         "date": "08/Apr/2021",
@@ -36399,6 +36023,14 @@
       },
       {
         "date": "09/Apr/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2021",
         "amount": 10000000
       },
       {
@@ -36633,9 +36265,9 @@
   },
   {
     "donner": "RAY CONSTRUCTIONS LTD",
-    "totalTransactions": 22,
-    "totalAmount": 175000000,
-    "totalAmountString": "₹17,50,00,000",
+    "totalTransactions": 23,
+    "totalAmount": 175001000,
+    "totalAmountString": "₹17,50,01,000",
     "transactions": [
       {
         "date": "08/Apr/2021",
@@ -36680,6 +36312,10 @@
       {
         "date": "08/Apr/2021",
         "amount": 1000000
+      },
+      {
+        "date": "09/Apr/2021",
+        "amount": 1000
       },
       {
         "date": "10/Jan/2022",
@@ -36797,9 +36433,9 @@
   },
   {
     "donner": "ABHINANDANSTOCKBROKINGPVTLTD",
-    "totalTransactions": 42,
-    "totalAmount": 141000000,
-    "totalAmountString": "₹14,10,00,000",
+    "totalTransactions": 47,
+    "totalAmount": 146000000,
+    "totalAmountString": "₹14,60,00,000",
     "transactions": [
       {
         "date": "09/Apr/2021",
@@ -36947,6 +36583,26 @@
       },
       {
         "date": "09/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "13/Oct/2023",
         "amount": 1000000
       },
       {
@@ -37249,14 +36905,10 @@
   },
   {
     "donner": "GOODLUCK INDIA LTD",
-    "totalTransactions": 5,
-    "totalAmount": 50000000,
-    "totalAmountString": "₹5,00,00,000",
+    "totalTransactions": 4,
+    "totalAmount": 40000000,
+    "totalAmountString": "₹4,00,00,000",
     "transactions": [
-      {
-        "date": "09/Apr/2021",
-        "amount": 10000000
-      },
       {
         "date": "09/Apr/2021",
         "amount": 10000000
@@ -37617,257 +37269,389 @@
   },
   {
     "donner": "RAMAN SHARMA",
-    "totalTransactions": 2,
-    "totalAmount": 2000000,
-    "totalAmountString": "₹20,00,000",
-    "transactions": [
-      {
-        "date": "09/Apr/2021",
-        "amount": 1000000
-      },
-      {
-        "date": "09/Apr/2021",
-        "amount": 1000000
-      }
-    ]
-  },
-  {
-    "donner": "SARITA",
     "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "totalAmount": 1000000,
+    "totalAmountString": "₹10,00,000",
     "transactions": [
       {
         "date": "09/Apr/2021",
-        "amount": null
+        "amount": 1000000
       }
     ]
   },
   {
-    "donner": "09/Apr/2021",
-    "totalTransactions": 29,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "SHRI JAGANNATH STEELS & POWER LTD",
+    "totalTransactions": 45,
+    "totalAmount": 144000000,
+    "totalAmountString": "₹14,40,00,000",
     "transactions": [
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "08/Oct/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "08/Oct/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "08/Oct/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "08/Oct/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jan/2022",
+        "amount": 1000000
       }
     ]
   },
   {
-    "donner": "02/Jul/2021",
-    "totalTransactions": 13,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "SURENDRA STEELS PRIVATE LIMITED",
+    "totalTransactions": 10,
+    "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
     "transactions": [
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 1000000
       }
     ]
   },
   {
-    "donner": "03/Jul/2021",
-    "totalTransactions": 7,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "THRIVENI EARTH MOVERS PVT LTD",
+    "totalTransactions": 3,
+    "totalAmount": 30000000,
+    "totalAmountString": "₹3,00,00,000",
     "transactions": [
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "09/Apr/2021",
+        "amount": 10000000
+      }
+    ]
+  },
+  {
+    "donner": "BHUDUTT JANGID",
+    "totalTransactions": 5,
+    "totalAmount": 500000,
+    "totalAmountString": "₹5,00,000",
+    "transactions": [
+      {
+        "date": "02/Jul/2021",
+        "amount": 100000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "02/Jul/2021",
+        "amount": 100000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "02/Jul/2021",
+        "amount": 100000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "02/Jul/2021",
+        "amount": 100000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "02/Jul/2021",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "SHIV SHANKAR SECURITIES PVT LTD",
+    "totalTransactions": 12,
+    "totalAmount": 8400000,
+    "totalAmountString": "₹84,00,000",
+    "transactions": [
+      {
+        "date": "02/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "02/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "02/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 100000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 100000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 100000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jul/2021",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "VIKRAM SINGH",
+    "totalTransactions": 5,
+    "totalAmount": 500000,
+    "totalAmountString": "₹5,00,000",
+    "transactions": [
+      {
+        "date": "02/Jul/2021",
+        "amount": 100000
+      },
+      {
+        "date": "02/Jul/2021",
+        "amount": 100000
+      },
+      {
+        "date": "02/Jul/2021",
+        "amount": 100000
+      },
+      {
+        "date": "02/Jul/2021",
+        "amount": 100000
+      },
+      {
+        "date": "02/Jul/2021",
+        "amount": 100000
       }
     ]
   },
   {
     "donner": "PURULIA BOTTLING PVT LTD",
-    "totalTransactions": 32,
-    "totalAmount": 50000000,
-    "totalAmountString": "₹5,00,00,000",
+    "totalTransactions": 31,
+    "totalAmount": 49000000,
+    "totalAmountString": "₹4,90,00,000",
     "transactions": [
       {
         "date": "05/Jul/2021",
@@ -37984,10 +37768,6 @@
       {
         "date": "07/Jul/2023",
         "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 1000000
       },
       {
         "date": "11/Oct/2023",
@@ -38700,50 +38480,6 @@
     ]
   },
   {
-    "donner": "SHIV SHANKAR SECURITIES PVT LTD",
-    "totalTransactions": 9,
-    "totalAmount": 5400000,
-    "totalAmountString": "₹54,00,000",
-    "transactions": [
-      {
-        "date": "06/Jul/2021",
-        "amount": 100000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 1000000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 1000000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 1000000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 100000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 1000000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 100000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 1000000
-      },
-      {
-        "date": "06/Jul/2021",
-        "amount": 100000
-      }
-    ]
-  },
-  {
     "donner": "VPL OIL MARKETING PVT LTD",
     "totalTransactions": 4,
     "totalAmount": 4000000,
@@ -38801,9 +38537,9 @@
   },
   {
     "donner": "DHARIWAL INFRASTRUCTURE LIMITED",
-    "totalTransactions": 113,
-    "totalAmount": 1130000000,
-    "totalAmountString": "₹1,13,00,00,000",
+    "totalTransactions": 112,
+    "totalAmount": 1120000000,
+    "totalAmountString": "₹1,12,00,00,000",
     "transactions": [
       {
         "date": "07/Jul/2021",
@@ -39195,10 +38931,6 @@
       },
       {
         "date": "10/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "06/Oct/2023",
         "amount": 10000000
       },
       {
@@ -39857,9 +39589,9 @@
   },
   {
     "donner": "RIPLEY & CO STEVDORING & HANDLING PVT LT D",
-    "totalTransactions": 25,
-    "totalAmount": 70000000,
-    "totalAmountString": "₹7,00,00,000",
+    "totalTransactions": 31,
+    "totalAmount": 85000000,
+    "totalAmountString": "₹8,50,00,000",
     "transactions": [
       {
         "date": "08/Jul/2021",
@@ -39959,6 +39691,30 @@
       },
       {
         "date": "11/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
         "amount": 1000000
       }
     ]
@@ -40321,9 +40077,9 @@
   },
   {
     "donner": "YASHODA SUPER SPECIALITY HOSPITAL",
-    "totalTransactions": 158,
-    "totalAmount": 1580000000,
-    "totalAmountString": "₹1,58,00,00,000",
+    "totalTransactions": 159,
+    "totalAmount": 1590000000,
+    "totalAmountString": "₹1,59,00,00,000",
     "transactions": [
       {
         "date": "04/Oct/2021",
@@ -40703,6 +40459,10 @@
       },
       {
         "date": "06/Apr/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "15/Nov/2022",
         "amount": 10000000
       },
       {
@@ -41345,9 +41105,9 @@
   },
   {
     "donner": "M S VARAS INTERNATIONAL PVT LTD",
-    "totalTransactions": 30,
-    "totalAmount": 30000000,
-    "totalAmountString": "₹3,00,00,000",
+    "totalTransactions": 37,
+    "totalAmount": 37000000,
+    "totalAmountString": "₹3,70,00,000",
     "transactions": [
       {
         "date": "05/Oct/2021",
@@ -41371,6 +41131,34 @@
       },
       {
         "date": "05/Oct/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Apr/2023",
         "amount": 1000000
       },
       {
@@ -43018,8 +42806,8 @@
   {
     "donner": "CAPSTAN TRADING LLP",
     "totalTransactions": 11,
-    "totalAmount": 51500000,
-    "totalAmountString": "₹5,15,00,000",
+    "totalAmount": 52400000,
+    "totalAmountString": "₹5,24,00,000",
     "transactions": [
       {
         "date": "07/Oct/2021",
@@ -43063,7 +42851,7 @@
       },
       {
         "date": "07/Jan/2022",
-        "amount": 100000
+        "amount": 1000000
       }
     ]
   },
@@ -43513,14 +43301,10 @@
   },
   {
     "donner": "RAHUL GUPTA",
-    "totalTransactions": 4,
-    "totalAmount": 400000,
-    "totalAmountString": "₹4,00,000",
+    "totalTransactions": 3,
+    "totalAmount": 300000,
+    "totalAmountString": "₹3,00,000",
     "transactions": [
-      {
-        "date": "07/Oct/2021",
-        "amount": 100000
-      },
       {
         "date": "07/Oct/2021",
         "amount": 100000
@@ -43913,9 +43697,9 @@
   },
   {
     "donner": "ANIL KUMAR MALAWAT",
-    "totalTransactions": 5,
-    "totalAmount": 500000,
-    "totalAmountString": "₹5,00,000",
+    "totalTransactions": 13,
+    "totalAmount": 1300000,
+    "totalAmountString": "₹13,00,000",
     "transactions": [
       {
         "date": "08/Oct/2021",
@@ -43935,6 +43719,38 @@
       },
       {
         "date": "08/Oct/2021",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
         "amount": 100000
       }
     ]
@@ -43953,9 +43769,9 @@
   },
   {
     "donner": "ARUN KUMAR JOSHI",
-    "totalTransactions": 3,
-    "totalAmount": 300000,
-    "totalAmountString": "₹3,00,000",
+    "totalTransactions": 7,
+    "totalAmount": 700000,
+    "totalAmountString": "₹7,00,000",
     "transactions": [
       {
         "date": "08/Oct/2021",
@@ -43967,6 +43783,22 @@
       },
       {
         "date": "08/Oct/2021",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
         "amount": 100000
       }
     ]
@@ -44097,9 +43929,9 @@
   },
   {
     "donner": "IFB AGRO INDUSTRIES LIMITED",
-    "totalTransactions": 86,
-    "totalAmount": 833000000,
-    "totalAmountString": "₹83,30,00,000",
+    "totalTransactions": 93,
+    "totalAmount": 903000000,
+    "totalAmountString": "₹90,30,00,000",
     "transactions": [
       {
         "date": "08/Oct/2021",
@@ -44406,6 +44238,34 @@
         "amount": 10000000
       },
       {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
         "date": "08/Jan/2024",
         "amount": 10000000
       },
@@ -44525,9 +44385,9 @@
   },
   {
     "donner": "NARESH HIRALAL BHANSALI",
-    "totalTransactions": 10,
-    "totalAmount": 5500000,
-    "totalAmountString": "₹55,00,000",
+    "totalTransactions": 9,
+    "totalAmount": 5400000,
+    "totalAmountString": "₹54,00,000",
     "transactions": [
       {
         "date": "08/Oct/2021",
@@ -44552,10 +44412,6 @@
       {
         "date": "08/Oct/2021",
         "amount": 1000000
-      },
-      {
-        "date": "08/Oct/2021",
-        "amount": 100000
       },
       {
         "date": "12/Oct/2023",
@@ -44573,10 +44429,14 @@
   },
   {
     "donner": "NATURAL RESIDENCY LLP",
-    "totalTransactions": 1,
-    "totalAmount": 1000000,
-    "totalAmountString": "₹10,00,000",
+    "totalTransactions": 2,
+    "totalAmount": 2000000,
+    "totalAmountString": "₹20,00,000",
     "transactions": [
+      {
+        "date": "08/Oct/2021",
+        "amount": 1000000
+      },
       {
         "date": "08/Oct/2021",
         "amount": 1000000
@@ -44749,14 +44609,10 @@
   },
   {
     "donner": "PROCURE ADVISORY SERVICES PRIVATE LTD",
-    "totalTransactions": 8,
-    "totalAmount": 80000000,
-    "totalAmountString": "₹8,00,00,000",
+    "totalTransactions": 7,
+    "totalAmount": 70000000,
+    "totalAmountString": "₹7,00,00,000",
     "transactions": [
-      {
-        "date": "08/Oct/2021",
-        "amount": 10000000
-      },
       {
         "date": "08/Oct/2021",
         "amount": 10000000
@@ -44789,10 +44645,14 @@
   },
   {
     "donner": "R.S.BROTHERS RETAIL INDIA PRIVATE LIMITE D",
-    "totalTransactions": 6,
-    "totalAmount": 24000000,
-    "totalAmountString": "₹2,40,00,000",
+    "totalTransactions": 7,
+    "totalAmount": 25000000,
+    "totalAmountString": "₹2,50,00,000",
     "transactions": [
+      {
+        "date": "08/Oct/2021",
+        "amount": 1000000
+      },
       {
         "date": "08/Oct/2021",
         "amount": 10000000
@@ -44869,9 +44729,9 @@
   },
   {
     "donner": "RASHMI CEMENT LTD",
-    "totalTransactions": 56,
-    "totalAmount": 515000000,
-    "totalAmountString": "₹51,50,00,000",
+    "totalTransactions": 66,
+    "totalAmount": 615000000,
+    "totalAmountString": "₹61,50,00,000",
     "transactions": [
       {
         "date": "08/Oct/2021",
@@ -44999,6 +44859,46 @@
       },
       {
         "date": "27/Jan/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
         "amount": 10000000
       },
       {
@@ -45217,9 +45117,9 @@
   },
   {
     "donner": "RIGHT AID CONSULTANTS PVT LTD",
-    "totalTransactions": 6,
-    "totalAmount": 15000000,
-    "totalAmountString": "₹1,50,00,000",
+    "totalTransactions": 12,
+    "totalAmount": 30000000,
+    "totalAmountString": "₹3,00,00,000",
     "transactions": [
       {
         "date": "08/Oct/2021",
@@ -45243,6 +45143,30 @@
       },
       {
         "date": "08/Oct/2021",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
         "amount": 1000000
       }
     ]
@@ -45388,166 +45312,6 @@
       {
         "date": "08/Oct/2021",
         "amount": 100000
-      }
-    ]
-  },
-  {
-    "donner": "SHRI JAGANNATH STEELS & POWER LTD",
-    "totalTransactions": 38,
-    "totalAmount": 74000000,
-    "totalAmountString": "₹7,40,00,000",
-    "transactions": [
-      {
-        "date": "08/Oct/2021",
-        "amount": 10000000
-      },
-      {
-        "date": "08/Oct/2021",
-        "amount": 10000000
-      },
-      {
-        "date": "08/Oct/2021",
-        "amount": 10000000
-      },
-      {
-        "date": "08/Oct/2021",
-        "amount": 10000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Jan/2022",
-        "amount": 1000000
       }
     ]
   },
@@ -45834,8 +45598,8 @@
   {
     "donner": "BANSHIDHAR VYAPAAR PVT LTD",
     "totalTransactions": 8,
-    "totalAmount": 7100000,
-    "totalAmountString": "₹71,00,000",
+    "totalAmount": 6200000,
+    "totalAmountString": "₹62,00,000",
     "transactions": [
       {
         "date": "03/Jan/2022",
@@ -45855,7 +45619,7 @@
       },
       {
         "date": "03/Jan/2022",
-        "amount": 1000000
+        "amount": 100000
       },
       {
         "date": "03/Jan/2022",
@@ -46108,55 +45872,39 @@
     ]
   },
   {
-    "donner": "GANDHI SECURITIES",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "GANDHI SECURITIES INVESTMENT",
+    "totalTransactions": 4,
+    "totalAmount": 4000000,
+    "totalAmountString": "₹40,00,000",
     "transactions": [
       {
         "date": "03/Jan/2022",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "03/Jan/2022",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "03/Jan/2022",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "10,00,000",
-        "amount": null
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "INVESTMENT",
-    "totalTransactions": 1,
-    "totalAmount": 1000000,
-    "totalAmountString": "₹10,00,000",
-    "transactions": [
+        "date": "03/Jan/2022",
+        "amount": 1000000
+      },
       {
-        "date": "GANDHI SECURITIES",
+        "date": "03/Jan/2022",
         "amount": 1000000
       }
     ]
   },
   {
     "donner": "JIT INDUSTRIAL PARK LLP",
-    "totalTransactions": 26,
-    "totalAmount": 9890000,
-    "totalAmountString": "₹98,90,000",
+    "totalTransactions": 27,
+    "totalAmount": 9990000,
+    "totalAmountString": "₹99,90,000",
     "transactions": [
+      {
+        "date": "03/Jan/2022",
+        "amount": 100000
+      },
       {
         "date": "03/Jan/2022",
         "amount": 100000
@@ -46858,8 +46606,8 @@
   {
     "donner": "VAIBHAW TIE UP PRIVATE LIMITED",
     "totalTransactions": 12,
-    "totalAmount": 8400000,
-    "totalAmountString": "₹84,00,000",
+    "totalAmount": 7500000,
+    "totalAmountString": "₹75,00,000",
     "transactions": [
       {
         "date": "03/Jan/2022",
@@ -46879,7 +46627,7 @@
       },
       {
         "date": "03/Jan/2022",
-        "amount": 1000000
+        "amount": 100000
       },
       {
         "date": "03/Jan/2022",
@@ -46914,8 +46662,8 @@
   {
     "donner": "KAMNA CREDITS AND PROMOTORS PVT LTD",
     "totalTransactions": 52,
-    "totalAmount": 304000000,
-    "totalAmountString": "₹30,40,00,000",
+    "totalAmount": 304900000,
+    "totalAmountString": "₹30,49,00,000",
     "transactions": [
       {
         "date": "04/Jan/2022",
@@ -46967,7 +46715,7 @@
       },
       {
         "date": "05/Oct/2023",
-        "amount": 100000
+        "amount": 1000000
       },
       {
         "date": "05/Oct/2023",
@@ -48205,9 +47953,9 @@
   },
   {
     "donner": "QWIKSUPPLYCHAINPRIVATELIMITED",
-    "totalTransactions": 377,
-    "totalAmount": 3770000000,
-    "totalAmountString": "₹3,77,00,00,000",
+    "totalTransactions": 402,
+    "totalAmount": 4020000000,
+    "totalAmountString": "₹4,02,00,00,000",
     "transactions": [
       {
         "date": "05/Jan/2022",
@@ -49619,6 +49367,106 @@
       },
       {
         "date": "11/Nov/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
         "amount": 10000000
       },
       {
@@ -50600,85 +50448,69 @@
     ]
   },
   {
-    "donner": "V M SALGAOCAR",
-    "totalTransactions": 5,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "V M SALGAOCAR BROTHER PVT LTD",
+    "totalTransactions": 15,
+    "totalAmount": 15000000,
+    "totalAmountString": "₹1,50,00,000",
     "transactions": [
       {
         "date": "06/Jan/2022",
-        "amount": null
-      },
-      {
-        "date": "06/Jan/2022",
-        "amount": null
-      },
-      {
-        "date": "06/Jan/2022",
-        "amount": null
-      },
-      {
-        "date": "06/Jan/2022",
-        "amount": null
-      },
-      {
-        "date": "06/Jan/2022",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "06/Jan/2022",
-    "totalTransactions": 5,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "BROTHER PVT LTD",
-    "totalTransactions": 5,
-    "totalAmount": 5000000,
-    "totalAmountString": "₹50,00,000",
-    "transactions": [
-      {
-        "date": "V M SALGAOCAR",
         "amount": 1000000
       },
       {
-        "date": "V M SALGAOCAR",
+        "date": "06/Jan/2022",
         "amount": 1000000
       },
       {
-        "date": "V M SALGAOCAR",
+        "date": "06/Jan/2022",
         "amount": 1000000
       },
       {
-        "date": "V M SALGAOCAR",
+        "date": "06/Jan/2022",
         "amount": 1000000
       },
       {
-        "date": "V M SALGAOCAR",
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
+        "amount": 1000000
+      },
+      {
+        "date": "06/Jan/2022",
         "amount": 1000000
       }
     ]
@@ -51785,9 +51617,9 @@
   },
   {
     "donner": "KAMAL TRADING CORPORATION",
-    "totalTransactions": 35,
-    "totalAmount": 35000000,
-    "totalAmountString": "₹3,50,00,000",
+    "totalTransactions": 34,
+    "totalAmount": 34000000,
+    "totalAmountString": "₹3,40,00,000",
     "transactions": [
       {
         "date": "07/Jan/2022",
@@ -51867,10 +51699,6 @@
       },
       {
         "date": "07/Jan/2022",
-        "amount": 1000000
-      },
-      {
-        "date": "10/Apr/2023",
         "amount": 1000000
       },
       {
@@ -51960,37 +51788,21 @@
     ]
   },
   {
-    "donner": "LOUISIANA INVESTMENT",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "LOUISIANA INVESTMENT FINANCE PVT",
+    "totalTransactions": 3,
+    "totalAmount": 30000000,
+    "totalAmountString": "₹3,00,00,000",
     "transactions": [
       {
         "date": "07/Jan/2022",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "07/Jan/2022",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
+        "amount": 10000000
+      },
       {
-        "date": "1,00,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "FINANCE PVT",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
-    "transactions": [
+        "date": "07/Jan/2022",
+        "amount": 10000000
+      },
       {
-        "date": "LOUISIANA INVESTMENT",
+        "date": "07/Jan/2022",
         "amount": 10000000
       }
     ]
@@ -53566,8 +53378,8 @@
   {
     "donner": "KRISHNA SHEET PROCESSORS PVT LTD",
     "totalTransactions": 11,
-    "totalAmount": 20000000,
-    "totalAmountString": "₹2,00,00,000",
+    "totalAmount": 29000000,
+    "totalAmountString": "₹2,90,00,000",
     "transactions": [
       {
         "date": "10/Jan/2022",
@@ -53595,7 +53407,7 @@
       },
       {
         "date": "10/Jan/2022",
-        "amount": 1000000
+        "amount": 10000000
       },
       {
         "date": "10/Jan/2022",
@@ -54113,9 +53925,9 @@
   },
   {
     "donner": "LAKSHMI MEDICALS",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
+    "totalTransactions": 5,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
       {
         "date": "06/Apr/2022",
@@ -54123,6 +53935,10 @@
       },
       {
         "date": "06/Apr/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "12/Dec/2022",
         "amount": 10000000
       },
       {
@@ -54417,9 +54233,9 @@
   },
   {
     "donner": "DHEERAJ MEDICALS",
-    "totalTransactions": 17,
-    "totalAmount": 170000000,
-    "totalAmountString": "₹17,00,00,000",
+    "totalTransactions": 16,
+    "totalAmount": 160000000,
+    "totalAmountString": "₹16,00,00,000",
     "transactions": [
       {
         "date": "07/Apr/2022",
@@ -54479,10 +54295,6 @@
       },
       {
         "date": "07/Apr/2022",
-        "amount": 10000000
-      },
-      {
-        "date": "12/Dec/2022",
         "amount": 10000000
       },
       {
@@ -55592,7 +55404,7 @@
     ]
   },
   {
-    "donner": "GREENKO ASTHA PROJECTS (INDIA) PVT LTD",
+    "donner": "GREENKO HIM KAILASH HYDRO POWER PVT LTD",
     "totalTransactions": 1,
     "totalAmount": 10000000,
     "totalAmountString": "₹1,00,00,000",
@@ -56061,9 +55873,9 @@
   },
   {
     "donner": "MKJ ENTERPRISES LIMITED",
-    "totalTransactions": 231,
-    "totalAmount": 1271400000,
-    "totalAmountString": "₹1,27,14,00,000",
+    "totalTransactions": 230,
+    "totalAmount": 1271300000,
+    "totalAmountString": "₹1,27,13,00,000",
     "transactions": [
       {
         "date": "08/Apr/2022",
@@ -56234,10 +56046,6 @@
         "amount": 10000000
       },
       {
-        "date": "05/Apr/2023",
-        "amount": 10000000
-      },
-      {
         "date": "11/Apr/2023",
         "amount": 1000000
       },
@@ -56483,7 +56291,7 @@
       },
       {
         "date": "04/Oct/2023",
-        "amount": 100000
+        "amount": 10000000
       },
       {
         "date": "04/Oct/2023",
@@ -57277,14 +57085,10 @@
   },
   {
     "donner": "RIPLEY AND CO. STEVEDORING & HANDLING PVT LTD",
-    "totalTransactions": 3,
-    "totalAmount": 30000000,
-    "totalAmountString": "₹3,00,00,000",
+    "totalTransactions": 2,
+    "totalAmount": 20000000,
+    "totalAmountString": "₹2,00,00,000",
     "transactions": [
-      {
-        "date": "08/Apr/2022",
-        "amount": 10000000
-      },
       {
         "date": "08/Apr/2022",
         "amount": 10000000
@@ -57297,10 +57101,14 @@
   },
   {
     "donner": "RT RENEWABLE ENERGY PVT LTD",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "totalTransactions": 2,
+    "totalAmount": 20000000,
+    "totalAmountString": "₹2,00,00,000",
     "transactions": [
+      {
+        "date": "08/Apr/2022",
+        "amount": 10000000
+      },
       {
         "date": "08/Apr/2022",
         "amount": 10000000
@@ -58117,9 +57925,9 @@
   },
   {
     "donner": "PCBL LIMITED",
-    "totalTransactions": 44,
-    "totalAmount": 440000000,
-    "totalAmountString": "₹44,00,00,000",
+    "totalTransactions": 45,
+    "totalAmount": 450000000,
+    "totalAmountString": "₹45,00,00,000",
     "transactions": [
       {
         "date": "05/Jul/2022",
@@ -58159,6 +57967,10 @@
       },
       {
         "date": "05/Jul/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "05/Apr/2023",
         "amount": 10000000
       },
       {
@@ -58605,9 +58417,9 @@
   },
   {
     "donner": "INORBIT MALLS INDIA PRIVATE LIMIT",
-    "totalTransactions": 11,
-    "totalAmount": 110000000,
-    "totalAmountString": "₹11,00,00,000",
+    "totalTransactions": 14,
+    "totalAmount": 140000000,
+    "totalAmountString": "₹14,00,00,000",
     "transactions": [
       {
         "date": "07/Jul/2022",
@@ -58647,6 +58459,18 @@
       },
       {
         "date": "07/Jul/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "18/Nov/2023",
         "amount": 10000000
       },
       {
@@ -58781,9 +58605,9 @@
   },
   {
     "donner": "WESTWELL GASES PRIVATE LIMITED",
-    "totalTransactions": 32,
-    "totalAmount": 284000000,
-    "totalAmountString": "₹28,40,00,000",
+    "totalTransactions": 31,
+    "totalAmount": 265000000,
+    "totalAmountString": "₹26,50,00,000",
     "transactions": [
       {
         "date": "07/Jul/2022",
@@ -58863,7 +58687,7 @@
       },
       {
         "date": "11/Oct/2023",
-        "amount": 10000000
+        "amount": 1000000
       },
       {
         "date": "11/Oct/2023",
@@ -58880,10 +58704,6 @@
       {
         "date": "11/Oct/2023",
         "amount": 1000000
-      },
-      {
-        "date": "11/Jan/2024",
-        "amount": 10000000
       },
       {
         "date": "11/Jan/2024",
@@ -59088,7 +58908,7 @@
     ]
   },
   {
-    "donner": "MR ANUJ GOENKA",
+    "donner": "MR. BAL KISHAN GOENKA",
     "totalTransactions": 1,
     "totalAmount": 1000000,
     "totalAmountString": "₹10,00,000",
@@ -60108,35 +59928,35 @@
     ]
   },
   {
-    "donner": "KANWAR",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "KANWAR LAL PATNI",
+    "totalTransactions": 2,
+    "totalAmount": 20000000,
+    "totalAmountString": "₹2,00,00,000",
     "transactions": [
       {
         "date": "07/Oct/2022",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "07/Oct/2022",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
+        "amount": 10000000
+      },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "07/Oct/2022",
+        "amount": 10000000
       }
     ]
   },
   {
     "donner": "MOHIT MINERALS LIMITED",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
+    "totalTransactions": 6,
+    "totalAmount": 60000000,
+    "totalAmountString": "₹6,00,00,000",
     "transactions": [
+      {
+        "date": "07/Oct/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Oct/2022",
+        "amount": 10000000
+      },
       {
         "date": "07/Oct/2022",
         "amount": 10000000
@@ -60745,14 +60565,10 @@
   },
   {
     "donner": "FORTUNE METALIKS LIMITED",
-    "totalTransactions": 5,
-    "totalAmount": 5000000,
-    "totalAmountString": "₹50,00,000",
+    "totalTransactions": 4,
+    "totalAmount": 4000000,
+    "totalAmountString": "₹40,00,000",
     "transactions": [
-      {
-        "date": "10/Oct/2022",
-        "amount": 1000000
-      },
       {
         "date": "10/Oct/2022",
         "amount": 1000000
@@ -60773,10 +60589,14 @@
   },
   {
     "donner": "GANDHAR COALS AND MINES PVT LTD",
-    "totalTransactions": 5,
-    "totalAmount": 50000000,
-    "totalAmountString": "₹5,00,00,000",
+    "totalTransactions": 6,
+    "totalAmount": 60000000,
+    "totalAmountString": "₹6,00,00,000",
     "transactions": [
+      {
+        "date": "10/Oct/2022",
+        "amount": 10000000
+      },
       {
         "date": "10/Oct/2022",
         "amount": 10000000
@@ -60825,9 +60645,9 @@
   },
   {
     "donner": "GENUS POWER INFRASTRUCTURES LIMITED",
-    "totalTransactions": 25,
-    "totalAmount": 205000000,
-    "totalAmountString": "₹20,50,00,000",
+    "totalTransactions": 35,
+    "totalAmount": 305000000,
+    "totalAmountString": "₹30,50,00,000",
     "transactions": [
       {
         "date": "10/Oct/2022",
@@ -60867,6 +60687,46 @@
       },
       {
         "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
         "amount": 10000000
       },
       {
@@ -61237,9 +61097,9 @@
   },
   {
     "donner": "MICHIGAN ENGINEERS PVT LTD",
-    "totalTransactions": 8,
-    "totalAmount": 80000000,
-    "totalAmountString": "₹8,00,00,000",
+    "totalTransactions": 9,
+    "totalAmount": 90000000,
+    "totalAmountString": "₹9,00,00,000",
     "transactions": [
       {
         "date": "10/Oct/2022",
@@ -61251,6 +61111,10 @@
       },
       {
         "date": "07/Dec/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "25/Jan/2023",
         "amount": 10000000
       },
       {
@@ -61369,9 +61233,9 @@
   },
   {
     "donner": "NIRMA LIMITED",
-    "totalTransactions": 14,
-    "totalAmount": 140000000,
-    "totalAmountString": "₹14,00,00,000",
+    "totalTransactions": 15,
+    "totalAmount": 150000000,
+    "totalAmountString": "₹15,00,00,000",
     "transactions": [
       {
         "date": "10/Oct/2022",
@@ -61387,6 +61251,10 @@
       },
       {
         "date": "10/Oct/2022",
+        "amount": 10000000
+      },
+      {
+        "date": "14/Nov/2022",
         "amount": 10000000
       },
       {
@@ -62249,9 +62117,9 @@
   },
   {
     "donner": "MAATHA PROJECTS LLP",
-    "totalTransactions": 19,
-    "totalAmount": 190000000,
-    "totalAmountString": "₹19,00,00,000",
+    "totalTransactions": 24,
+    "totalAmount": 240000000,
+    "totalAmountString": "₹24,00,00,000",
     "transactions": [
       {
         "date": "10/Nov/2022",
@@ -62327,6 +62195,26 @@
       },
       {
         "date": "12/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
         "amount": 10000000
       }
     ]
@@ -62674,8 +62562,8 @@
   {
     "donner": "GLENMARK PHARMACEUTICALS LTD",
     "totalTransactions": 20,
-    "totalAmount": 87500000,
-    "totalAmountString": "₹8,75,00,000",
+    "totalAmount": 96500000,
+    "totalAmountString": "₹9,65,00,000",
     "transactions": [
       {
         "date": "11/Nov/2022",
@@ -62715,7 +62603,7 @@
       },
       {
         "date": "11/Nov/2022",
-        "amount": 1000000
+        "amount": 10000000
       },
       {
         "date": "11/Nov/2022",
@@ -63201,14 +63089,10 @@
   },
   {
     "donner": "NAHAR BUILDERS AND DEVELOPERS LTD",
-    "totalTransactions": 5,
-    "totalAmount": 5000000,
-    "totalAmountString": "₹50,00,000",
+    "totalTransactions": 4,
+    "totalAmount": 4000000,
+    "totalAmountString": "₹40,00,000",
     "transactions": [
-      {
-        "date": "14/Nov/2022",
-        "amount": 1000000
-      },
       {
         "date": "14/Nov/2022",
         "amount": 1000000
@@ -63854,8 +63738,8 @@
   {
     "donner": "PREM AGGARWAL",
     "totalTransactions": 6,
-    "totalAmount": 1500000,
-    "totalAmountString": "₹15,00,000",
+    "totalAmount": 2400000,
+    "totalAmountString": "₹24,00,000",
     "transactions": [
       {
         "date": "15/Nov/2022",
@@ -63875,7 +63759,7 @@
       },
       {
         "date": "15/Nov/2022",
-        "amount": 100000
+        "amount": 1000000
       },
       {
         "date": "15/Nov/2022",
@@ -64126,8 +64010,8 @@
   {
     "donner": "SANVI SPINNING MILLS PVT LTD",
     "totalTransactions": 15,
-    "totalAmount": 2832000,
-    "totalAmountString": "₹28,32,000",
+    "totalAmount": 2733000,
+    "totalAmountString": "₹27,33,000",
     "transactions": [
       {
         "date": "15/Nov/2022",
@@ -64151,7 +64035,7 @@
       },
       {
         "date": "15/Nov/2022",
-        "amount": 100000
+        "amount": 1000
       },
       {
         "date": "15/Nov/2022",
@@ -64369,9 +64253,9 @@
   },
   {
     "donner": "SUSTAINABLE SPINNING AND COMMODITIES PVT LTD",
-    "totalTransactions": 10,
-    "totalAmount": 1450000,
-    "totalAmountString": "₹14,50,000",
+    "totalTransactions": 9,
+    "totalAmount": 1350000,
+    "totalAmountString": "₹13,50,000",
     "transactions": [
       {
         "date": "15/Nov/2022",
@@ -64408,19 +64292,19 @@
       {
         "date": "15/Nov/2022",
         "amount": 10000
-      },
-      {
-        "date": "15/Nov/2022",
-        "amount": 100000
       }
     ]
   },
   {
     "donner": "TRIBHUVAN SPINTEX PRIVATE LIMITED",
-    "totalTransactions": 17,
-    "totalAmount": 2483000,
-    "totalAmountString": "₹24,83,000",
+    "totalTransactions": 18,
+    "totalAmount": 2484000,
+    "totalAmountString": "₹24,84,000",
     "transactions": [
+      {
+        "date": "15/Nov/2022",
+        "amount": 1000
+      },
       {
         "date": "15/Nov/2022",
         "amount": 100000
@@ -64877,9 +64761,9 @@
   },
   {
     "donner": "VIPIN AGGARWAL AND SONS HUF",
-    "totalTransactions": 7,
-    "totalAmount": 2500000,
-    "totalAmountString": "₹25,00,000",
+    "totalTransactions": 6,
+    "totalAmount": 2400000,
+    "totalAmountString": "₹24,00,000",
     "transactions": [
       {
         "date": "15/Nov/2022",
@@ -64888,10 +64772,6 @@
       {
         "date": "15/Nov/2022",
         "amount": 1000000
-      },
-      {
-        "date": "15/Nov/2022",
-        "amount": 100000
       },
       {
         "date": "15/Nov/2022",
@@ -65797,12 +65677,16 @@
   },
   {
     "donner": "TEKREANT INDIA PRIVATE LIMITED",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "totalTransactions": 2,
+    "totalAmount": 20000000,
+    "totalAmountString": "₹2,00,00,000",
     "transactions": [
       {
         "date": "20/Jan/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "21/Jan/2023",
         "amount": 10000000
       }
     ]
@@ -65969,18 +65853,6 @@
   },
   {
     "donner": "SLICK SOFTWARE SOLUTIONS PRIVATE LI",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
-    "transactions": [
-      {
-        "date": "21/Jan/2023",
-        "amount": 10000000
-      }
-    ]
-  },
-  {
-    "donner": "SREE RAYALASEEMA HI STRENGTH HYPO LTD",
     "totalTransactions": 1,
     "totalAmount": 10000000,
     "totalAmountString": "₹1,00,00,000",
@@ -66793,14 +66665,10 @@
   },
   {
     "donner": "LUPIN LIMITED",
-    "totalTransactions": 18,
-    "totalAmount": 180000000,
-    "totalAmountString": "₹18,00,00,000",
+    "totalTransactions": 17,
+    "totalAmount": 170000000,
+    "totalAmountString": "₹17,00,00,000",
     "transactions": [
-      {
-        "date": "25/Jan/2023",
-        "amount": 10000000
-      },
       {
         "date": "25/Jan/2023",
         "amount": 10000000
@@ -67194,8 +67062,8 @@
   {
     "donner": "PRAGATI ENTERPRISES",
     "totalTransactions": 7,
-    "totalAmount": 34000000,
-    "totalAmountString": "₹3,40,00,000",
+    "totalAmount": 25000000,
+    "totalAmountString": "₹2,50,00,000",
     "transactions": [
       {
         "date": "27/Jan/2023",
@@ -67203,7 +67071,7 @@
       },
       {
         "date": "27/Jan/2023",
-        "amount": 10000000
+        "amount": 1000000
       },
       {
         "date": "27/Jan/2023",
@@ -67629,9 +67497,9 @@
   },
   {
     "donner": "DIPAN P SHAH",
-    "totalTransactions": 16,
-    "totalAmount": 8800000,
-    "totalAmountString": "₹88,00,000",
+    "totalTransactions": 15,
+    "totalAmount": 7800000,
+    "totalAmountString": "₹78,00,000",
     "transactions": [
       {
         "date": "06/Apr/2023",
@@ -67692,10 +67560,6 @@
       {
         "date": "07/Jul/2023",
         "amount": 100000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 1000000
       }
     ]
   },
@@ -67724,226 +67588,286 @@
     ]
   },
   {
-    "donner": "INDER",
-    "totalTransactions": 6,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "INDER THAKURDAS JAISINGHANI",
+    "totalTransactions": 14,
+    "totalAmount": 140000000,
+    "totalAmountString": "₹14,00,00,000",
     "transactions": [
       {
         "date": "06/Apr/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "06/Apr/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "06/Apr/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "06/Apr/2023",
-        "amount": null
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
       },
       {
         "date": "10/Oct/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "10/Oct/2023",
-        "amount": null
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
       }
     ]
   },
   {
-    "donner": "06/Apr/2023",
-    "totalTransactions": 38,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "JAINENDRA P SHAH",
+    "totalTransactions": 9,
+    "totalAmount": 6300000,
+    "totalAmountString": "₹63,00,000",
     "transactions": [
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 100000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 100000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 1000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 1000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 100000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
+        "date": "06/Apr/2023",
+        "amount": 1000000
       }
     ]
   },
   {
-    "donner": "THAKURDAS JAISINGHANI",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
+    "donner": "LAXMI CIVIL ENGINEERING SERVICES PR",
+    "totalTransactions": 40,
+    "totalAmount": 400000000,
+    "totalAmountString": "₹40,00,00,000",
     "transactions": [
       {
-        "date": "INDER",
+        "date": "06/Apr/2023",
         "amount": 10000000
       },
       {
-        "date": "INDER",
+        "date": "06/Apr/2023",
         "amount": 10000000
       },
       {
-        "date": "INDER",
+        "date": "06/Apr/2023",
         "amount": 10000000
       },
       {
-        "date": "INDER",
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "06/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "07/Jul/2023",
         "amount": 10000000
       }
     ]
   },
   {
     "donner": "MAHABIR BANKA",
-    "totalTransactions": 13,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
+    "totalTransactions": 14,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
       {
         "date": "06/Apr/2023",
@@ -67987,6 +67911,10 @@
       },
       {
         "date": "11/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
         "amount": 10000000
       },
       {
@@ -68341,9 +68269,9 @@
   },
   {
     "donner": "KALPATARU PROJECTS INTERNATIONAL LIMITED",
-    "totalTransactions": 20,
-    "totalAmount": 200000000,
-    "totalAmountString": "₹20,00,00,000",
+    "totalTransactions": 30,
+    "totalAmount": 255000000,
+    "totalAmountString": "₹25,50,00,000",
     "transactions": [
       {
         "date": "07/Apr/2023",
@@ -68424,6 +68352,46 @@
       {
         "date": "05/Jul/2023",
         "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
       }
     ]
   },
@@ -68805,9 +68773,9 @@
   },
   {
     "donner": "GOODLUCK INDIA LIMITED",
-    "totalTransactions": 10,
-    "totalAmount": 55000000,
-    "totalAmountString": "₹5,50,00,000",
+    "totalTransactions": 19,
+    "totalAmount": 100000000,
+    "totalAmountString": "₹10,00,00,000",
     "transactions": [
       {
         "date": "10/Apr/2023",
@@ -68847,6 +68815,42 @@
       },
       {
         "date": "11/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "16/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "16/Nov/2023",
         "amount": 10000000
       }
     ]
@@ -69069,10 +69073,14 @@
   },
   {
     "donner": "KCR ENTERPRISE LLP",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
+    "totalTransactions": 5,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
+      {
+        "date": "10/Apr/2023",
+        "amount": 10000000
+      },
       {
         "date": "10/Apr/2023",
         "amount": 10000000
@@ -69241,9 +69249,9 @@
   },
   {
     "donner": "MARDI GRAS LIQUOR DIV OF MARDI GRAS",
-    "totalTransactions": 15,
-    "totalAmount": 15000000,
-    "totalAmountString": "₹1,50,00,000",
+    "totalTransactions": 23,
+    "totalAmount": 23000000,
+    "totalAmountString": "₹2,30,00,000",
     "transactions": [
       {
         "date": "10/Apr/2023",
@@ -69303,6 +69311,38 @@
       },
       {
         "date": "10/Apr/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
         "amount": 1000000
       }
     ]
@@ -70093,9 +70133,9 @@
   },
   {
     "donner": "PRESTIGE GARDEN ESTATES PRIVATE LIM",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
+    "totalTransactions": 9,
+    "totalAmount": 90000000,
+    "totalAmountString": "₹9,00,00,000",
     "transactions": [
       {
         "date": "11/Apr/2023",
@@ -70111,15 +70151,35 @@
       },
       {
         "date": "11/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
         "amount": 10000000
       }
     ]
   },
   {
     "donner": "PRESTIGE PROJECTS PVT LTD",
-    "totalTransactions": 5,
-    "totalAmount": 50000000,
-    "totalAmountString": "₹5,00,00,000",
+    "totalTransactions": 10,
+    "totalAmount": 100000000,
+    "totalAmountString": "₹10,00,00,000",
     "transactions": [
       {
         "date": "11/Apr/2023",
@@ -70139,6 +70199,26 @@
       },
       {
         "date": "11/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
         "amount": 10000000
       }
     ]
@@ -70189,9 +70269,9 @@
   },
   {
     "donner": "SATEC ENVIR ENGINEERING (I) PVT LTD",
-    "totalTransactions": 20,
-    "totalAmount": 119000000,
-    "totalAmountString": "₹11,90,00,000",
+    "totalTransactions": 21,
+    "totalAmount": 120000000,
+    "totalAmountString": "₹12,00,00,000",
     "transactions": [
       {
         "date": "11/Apr/2023",
@@ -70252,6 +70332,10 @@
       {
         "date": "11/Apr/2023",
         "amount": 10000000
+      },
+      {
+        "date": "11/Jul/2023",
+        "amount": 1000000
       },
       {
         "date": "11/Jul/2023",
@@ -70889,9 +70973,9 @@
   },
   {
     "donner": "CASTLE LIQUORS PRIVATE LIMITED",
-    "totalTransactions": 74,
-    "totalAmount": 74000000,
-    "totalAmountString": "₹7,40,00,000",
+    "totalTransactions": 73,
+    "totalAmount": 73000000,
+    "totalAmountString": "₹7,30,00,000",
     "transactions": [
       {
         "date": "12/Apr/2023",
@@ -71107,10 +71191,6 @@
       },
       {
         "date": "09/Oct/2023",
-        "amount": 1000000
-      },
-      {
-        "date": "08/Jan/2024",
         "amount": 1000000
       },
       {
@@ -71273,9 +71353,9 @@
   },
   {
     "donner": "DINESHCHANDRA R AGRAWAL INFRACON PVT LTD",
-    "totalTransactions": 22,
-    "totalAmount": 175000000,
-    "totalAmountString": "₹17,50,00,000",
+    "totalTransactions": 23,
+    "totalAmount": 185000000,
+    "totalAmountString": "₹18,50,00,000",
     "transactions": [
       {
         "date": "12/Apr/2023",
@@ -71315,6 +71395,10 @@
       },
       {
         "date": "12/Apr/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "12/Jul/2023",
         "amount": 10000000
       },
       {
@@ -71581,9 +71665,9 @@
   },
   {
     "donner": "SANDEEP AUTO LINES",
-    "totalTransactions": 19,
-    "totalAmount": 100000000,
-    "totalAmountString": "₹10,00,00,000",
+    "totalTransactions": 17,
+    "totalAmount": 80000000,
+    "totalAmountString": "₹8,00,00,000",
     "transactions": [
       {
         "date": "12/Apr/2023",
@@ -71614,10 +71698,6 @@
         "amount": 10000000
       },
       {
-        "date": "11/Jul/2023",
-        "amount": 10000000
-      },
-      {
         "date": "11/Oct/2023",
         "amount": 10000000
       },
@@ -71652,10 +71732,6 @@
       {
         "date": "09/Jan/2024",
         "amount": 1000000
-      },
-      {
-        "date": "09/Jan/2024",
-        "amount": 10000000
       },
       {
         "date": "09/Jan/2024",
@@ -72761,10 +72837,14 @@
   },
   {
     "donner": "ELLISBRIDGE ESTATES PVT LTD",
-    "totalTransactions": 4,
-    "totalAmount": 4000000,
-    "totalAmountString": "₹40,00,000",
+    "totalTransactions": 5,
+    "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
     "transactions": [
+      {
+        "date": "07/Jul/2023",
+        "amount": 1000000
+      },
       {
         "date": "07/Jul/2023",
         "amount": 1000000
@@ -72852,114 +72932,6 @@
     ]
   },
   {
-    "donner": "LAXMI CIVIL ENGINEERING SERVICES PR",
-    "totalTransactions": 25,
-    "totalAmount": 250000000,
-    "totalAmountString": "₹25,00,00,000",
-    "transactions": [
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "07/Jul/2023",
-        "amount": 10000000
-      }
-    ]
-  },
-  {
     "donner": "MB POWER (MADHYA PRADESH) LTD",
     "totalTransactions": 5,
     "totalAmount": 50000000,
@@ -73001,10 +72973,14 @@
   },
   {
     "donner": "SAGAR CEMENTS LIMITED",
-    "totalTransactions": 24,
-    "totalAmount": 24000000,
-    "totalAmountString": "₹2,40,00,000",
+    "totalTransactions": 25,
+    "totalAmount": 25000000,
+    "totalAmountString": "₹2,50,00,000",
     "transactions": [
+      {
+        "date": "07/Jul/2023",
+        "amount": 1000000
+      },
       {
         "date": "07/Jul/2023",
         "amount": 1000000
@@ -73560,179 +73536,67 @@
     ]
   },
   {
-    "donner": "NVNR POWER",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "NVNR POWER INFRA PRIVATE LIMITED",
+    "totalTransactions": 2,
+    "totalAmount": 20000000,
+    "totalAmountString": "₹2,00,00,000",
     "transactions": [
       {
         "date": "10/Jul/2023",
-        "amount": null
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
       }
     ]
   },
   {
-    "donner": "10/Jul/2023",
-    "totalTransactions": 37,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "PARESH CHAMPAKLAL SHAH",
+    "totalTransactions": 1,
+    "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
     "transactions": [
       {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Jul/2023",
+        "amount": 10000000
       }
     ]
   },
   {
     "donner": "PRUDHVI CONSTRUCTIONS PRIVATE LIMIT",
-    "totalTransactions": 8,
-    "totalAmount": 17000000,
-    "totalAmountString": "₹1,70,00,000",
+    "totalTransactions": 15,
+    "totalAmount": 24000000,
+    "totalAmountString": "₹2,40,00,000",
     "transactions": [
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
       {
         "date": "10/Jul/2023",
         "amount": 1000000
@@ -73768,71 +73632,135 @@
     ]
   },
   {
-    "donner": "R",
-    "totalTransactions": 6,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "R R INFRATECH INDIA PRIVATE LIM",
+    "totalTransactions": 16,
+    "totalAmount": 25000000,
+    "totalAmountString": "₹2,50,00,000",
     "transactions": [
       {
         "date": "10/Jul/2023",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "10/Jul/2023",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "10/Jul/2023",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "10/Jul/2023",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "10/Jul/2023",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "10/Jul/2023",
-        "amount": null
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
       }
     ]
   },
   {
-    "donner": "R INFRATECH INDIA PRIVATE LIM",
+    "donner": "REPALLY ASHOK",
     "totalTransactions": 5,
-    "totalAmount": 5000000,
-    "totalAmountString": "₹50,00,000",
+    "totalAmount": 500000,
+    "totalAmountString": "₹5,00,000",
     "transactions": [
       {
-        "date": "R",
-        "amount": 1000000
+        "date": "10/Jul/2023",
+        "amount": 100000
       },
       {
-        "date": "R",
-        "amount": 1000000
+        "date": "10/Jul/2023",
+        "amount": 100000
       },
       {
-        "date": "R",
-        "amount": 1000000
+        "date": "10/Jul/2023",
+        "amount": 100000
       },
       {
-        "date": "R",
-        "amount": 1000000
+        "date": "10/Jul/2023",
+        "amount": 100000
       },
       {
-        "date": "R",
-        "amount": 1000000
+        "date": "10/Jul/2023",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "SAGI VENKATA RAMAKRISHNA RAJU",
+    "totalTransactions": 1,
+    "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
+    "transactions": [
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
       }
     ]
   },
   {
     "donner": "SILVERTONE SECURITIES PRIVATE LIMIT",
-    "totalTransactions": 2,
-    "totalAmount": 2000000,
-    "totalAmountString": "₹20,00,000",
+    "totalTransactions": 5,
+    "totalAmount": 14000000,
+    "totalAmountString": "₹1,40,00,000",
     "transactions": [
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Jul/2023",
+        "amount": 1000000
+      },
       {
         "date": "10/Jul/2023",
         "amount": 1000000
@@ -74042,8 +73970,8 @@
   {
     "donner": "VIDITVA CONSTRUCTIONS",
     "totalTransactions": 11,
-    "totalAmount": 3800000,
-    "totalAmountString": "₹38,00,000",
+    "totalAmount": 4700000,
+    "totalAmountString": "₹47,00,000",
     "transactions": [
       {
         "date": "10/Jul/2023",
@@ -74055,7 +73983,7 @@
       },
       {
         "date": "10/Jul/2023",
-        "amount": 100000
+        "amount": 1000000
       },
       {
         "date": "10/Jul/2023",
@@ -74676,18 +74604,6 @@
       {
         "date": "12/Jul/2023",
         "amount": 100000
-      }
-    ]
-  },
-  {
-    "donner": "CYBER HOMES",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
-    "transactions": [
-      {
-        "date": "12/Jul/2023",
-        "amount": 10000000
       }
     ]
   },
@@ -75797,10 +75713,14 @@
   },
   {
     "donner": "VENKATESH NARAYAN REDDY",
-    "totalTransactions": 1,
-    "totalAmount": 1000000,
-    "totalAmountString": "₹10,00,000",
+    "totalTransactions": 2,
+    "totalAmount": 2000000,
+    "totalAmountString": "₹20,00,000",
     "transactions": [
+      {
+        "date": "12/Jul/2023",
+        "amount": 1000000
+      },
       {
         "date": "12/Jul/2023",
         "amount": 1000000
@@ -76490,8 +76410,8 @@
   {
     "donner": "SRI KUMARASWAMY MINERAL EXPORTS PR",
     "totalTransactions": 13,
-    "totalAmount": 83200000,
-    "totalAmountString": "₹8,32,00,000",
+    "totalAmount": 73300000,
+    "totalAmountString": "₹7,33,00,000",
     "transactions": [
       {
         "date": "05/Oct/2023",
@@ -76539,7 +76459,7 @@
       },
       {
         "date": "05/Oct/2023",
-        "amount": 10000000
+        "amount": 100000
       },
       {
         "date": "05/Oct/2023",
@@ -77820,23 +77740,15 @@
     ]
   },
   {
-    "donner": "B.DAS AND ASSOCIATES PVT. LTD.",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "donner": "BAIN GLOBAL RESOURCES LLP",
+    "totalTransactions": 5,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
       {
         "date": "09/Oct/2023",
         "amount": 10000000
-      }
-    ]
-  },
-  {
-    "donner": "BAIN GLOBAL RESOURCES LLP",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
-    "transactions": [
+      },
       {
         "date": "09/Oct/2023",
         "amount": 10000000
@@ -78073,14 +77985,10 @@
   },
   {
     "donner": "ASHISH JAIN",
-    "totalTransactions": 2,
-    "totalAmount": 2000000,
-    "totalAmountString": "₹20,00,000",
+    "totalTransactions": 1,
+    "totalAmount": 1000000,
+    "totalAmountString": "₹10,00,000",
     "transactions": [
-      {
-        "date": "10/Oct/2023",
-        "amount": 1000000
-      },
       {
         "date": "10/Oct/2023",
         "amount": 1000000
@@ -78089,10 +77997,14 @@
   },
   {
     "donner": "ASHOKA BAGEWADI SAUNDATTI ROAD LIMITED",
-    "totalTransactions": 3,
-    "totalAmount": 30000000,
-    "totalAmountString": "₹3,00,00,000",
+    "totalTransactions": 4,
+    "totalAmount": 40000000,
+    "totalAmountString": "₹4,00,00,000",
     "transactions": [
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
       {
         "date": "10/Oct/2023",
         "amount": 10000000
@@ -78124,235 +78036,227 @@
     ]
   },
   {
-    "donner": "DEEPAK",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "DEEPAK MAJJI VENKATA",
+    "totalTransactions": 2,
+    "totalAmount": 2000000,
+    "totalAmountString": "₹20,00,000",
     "transactions": [
       {
         "date": "10/Oct/2023",
-        "amount": null
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
       }
     ]
   },
   {
-    "donner": "10/Oct/2023",
-    "totalTransactions": 51,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "INTERNATIONAL TRADING CORPORATION",
+    "totalTransactions": 6,
+    "totalAmount": 15000000,
+    "totalAmountString": "₹1,50,00,000",
     "transactions": [
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 1000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 1000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "donner": "KAUSHALENDER AGGARWAL",
+    "totalTransactions": 6,
+    "totalAmount": 1500000,
+    "totalAmountString": "₹15,00,000",
+    "transactions": [
+      {
+        "date": "10/Oct/2023",
+        "amount": 100000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 1000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 100000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 100000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 100000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "L7 HITECH PRIVATE LIMITED",
+    "totalTransactions": 22,
+    "totalAmount": 220000000,
+    "totalAmountString": "₹22,00,00,000",
+    "transactions": [
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "10/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "10,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "13/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "13/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "13/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
+        "date": "13/Oct/2023",
+        "amount": 10000000
       },
       {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
+        "date": "13/Oct/2023",
+        "amount": 10000000
       }
     ]
   },
   {
     "donner": "NANDI ENTERPRISES",
-    "totalTransactions": 13,
-    "totalAmount": 26500000,
-    "totalAmountString": "₹2,65,00,000",
+    "totalTransactions": 23,
+    "totalAmount": 51800000,
+    "totalAmountString": "₹5,18,00,000",
     "transactions": [
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "10/Oct/2023",
+        "amount": 1000000
+      },
       {
         "date": "10/Oct/2023",
         "amount": 1000000
@@ -78570,12 +78474,12 @@
   {
     "donner": "ASHOKA HUNGUND TALIKOT ROAD LTD",
     "totalTransactions": 8,
-    "totalAmount": 35000000,
-    "totalAmountString": "₹3,50,00,000",
+    "totalAmount": 44000000,
+    "totalAmountString": "₹4,40,00,000",
     "transactions": [
       {
         "date": "11/Oct/2023",
-        "amount": 1000000
+        "amount": 10000000
       },
       {
         "date": "11/Oct/2023",
@@ -78706,8 +78610,8 @@
   {
     "donner": "DEVAL KHAMUBHAI MANVAR",
     "totalTransactions": 17,
-    "totalAmount": 11267000,
-    "totalAmountString": "₹1,12,67,000",
+    "totalAmount": 11168000,
+    "totalAmountString": "₹1,11,68,000",
     "transactions": [
       {
         "date": "11/Oct/2023",
@@ -78731,7 +78635,7 @@
       },
       {
         "date": "11/Oct/2023",
-        "amount": 100000
+        "amount": 1000
       },
       {
         "date": "11/Oct/2023",
@@ -78776,54 +78680,6 @@
       {
         "date": "11/Oct/2023",
         "amount": 10000
-      }
-    ]
-  },
-  {
-    "donner": "FORCE MOTORS LTD",
-    "totalTransactions": 10,
-    "totalAmount": 55000000,
-    "totalAmountString": "₹5,50,00,000",
-    "transactions": [
-      {
-        "date": "11/Oct/2023",
-        "amount": 1000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 1000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 1000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 1000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "11/Oct/2023",
-        "amount": 1000000
       }
     ]
   },
@@ -78962,8 +78818,8 @@
   {
     "donner": "MANVAR DEVABHAI",
     "totalTransactions": 14,
-    "totalAmount": 11336000,
-    "totalAmountString": "₹1,13,36,000",
+    "totalAmount": 11435000,
+    "totalAmountString": "₹1,14,35,000",
     "transactions": [
       {
         "date": "11/Oct/2023",
@@ -79015,7 +78871,7 @@
       },
       {
         "date": "11/Oct/2023",
-        "amount": 1000
+        "amount": 100000
       },
       {
         "date": "11/Oct/2023",
@@ -79158,8 +79014,8 @@
   {
     "donner": "PRASHANT KUMAR JAISWAL",
     "totalTransactions": 24,
-    "totalAmount": 42000000,
-    "totalAmountString": "₹4,20,00,000",
+    "totalAmount": 33000000,
+    "totalAmountString": "₹3,30,00,000",
     "transactions": [
       {
         "date": "11/Oct/2023",
@@ -79223,7 +79079,7 @@
       },
       {
         "date": "10/Jan/2024",
-        "amount": 10000000
+        "amount": 1000000
       },
       {
         "date": "10/Jan/2024",
@@ -79278,8 +79134,8 @@
   {
     "donner": "RATHOD LAKHIBEN",
     "totalTransactions": 21,
-    "totalAmount": 10767000,
-    "totalAmountString": "₹1,07,67,000",
+    "totalAmount": 10758000,
+    "totalAmountString": "₹1,07,58,000",
     "transactions": [
       {
         "date": "11/Oct/2023",
@@ -79351,7 +79207,7 @@
       },
       {
         "date": "11/Oct/2023",
-        "amount": 10000
+        "amount": 1000
       },
       {
         "date": "11/Oct/2023",
@@ -79369,13 +79225,17 @@
   },
   {
     "donner": "SENGUPTA AND SENGUPTA PVT LTD",
-    "totalTransactions": 5,
-    "totalAmount": 14000000,
-    "totalAmountString": "₹1,40,00,000",
+    "totalTransactions": 6,
+    "totalAmount": 15000000,
+    "totalAmountString": "₹1,50,00,000",
     "transactions": [
       {
         "date": "11/Oct/2023",
         "amount": 10000000
+      },
+      {
+        "date": "09/Jan/2024",
+        "amount": 1000000
       },
       {
         "date": "09/Jan/2024",
@@ -79861,9 +79721,9 @@
   },
   {
     "donner": "KISHAN F.L. BOND HOUSE",
-    "totalTransactions": 15,
-    "totalAmount": 24000000,
-    "totalAmountString": "₹2,40,00,000",
+    "totalTransactions": 16,
+    "totalAmount": 25000000,
+    "totalAmountString": "₹2,50,00,000",
     "transactions": [
       {
         "date": "12/Oct/2023",
@@ -79924,66 +79784,10 @@
       {
         "date": "09/Jan/2024",
         "amount": 1000000
-      }
-    ]
-  },
-  {
-    "donner": "L7 HITECH PRIVATE LIMITED",
-    "totalTransactions": 13,
-    "totalAmount": 130000000,
-    "totalAmountString": "₹13,00,00,000",
-    "transactions": [
-      {
-        "date": "12/Oct/2023",
-        "amount": 10000000
       },
       {
-        "date": "12/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "13/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "13/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "13/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "13/Oct/2023",
-        "amount": 10000000
-      },
-      {
-        "date": "13/Oct/2023",
-        "amount": 10000000
+        "date": "09/Jan/2024",
+        "amount": 1000000
       }
     ]
   },
@@ -80064,174 +79868,106 @@
     ]
   },
   {
-    "donner": "SOURABH",
-    "totalTransactions": 8,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "SOURABH KUMAR ROY",
+    "totalTransactions": 24,
+    "totalAmount": 2688000,
+    "totalAmountString": "₹26,88,000",
     "transactions": [
       {
         "date": "12/Oct/2023",
-        "amount": null
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": null
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": null
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": null
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": null
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": null
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": null
-      },
-      {
-        "date": "12/Oct/2023",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "12/Oct/2023",
-    "totalTransactions": 11,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "10,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,000",
-        "amount": null
-      },
-      {
-        "date": "10,000",
-        "amount": null
-      },
-      {
-        "date": "10,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "KUMAR ROY",
-    "totalTransactions": 8,
-    "totalAmount": 1115000,
-    "totalAmountString": "₹11,15,000",
-    "transactions": [
-      {
-        "date": "SOURABH",
         "amount": 10000
       },
       {
-        "date": "SOURABH",
+        "date": "12/Oct/2023",
         "amount": 100000
       },
       {
-        "date": "SOURABH",
+        "date": "12/Oct/2023",
+        "amount": 10000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000
+      },
+      {
+        "date": "12/Oct/2023",
         "amount": 1000000
       },
       {
-        "date": "SOURABH",
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "12/Oct/2023",
         "amount": 1000
       },
       {
-        "date": "SOURABH",
+        "date": "12/Oct/2023",
         "amount": 1000
       },
       {
-        "date": "SOURABH",
+        "date": "12/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000
+      },
+      {
+        "date": "12/Oct/2023",
         "amount": 1000
       },
       {
-        "date": "SOURABH",
+        "date": "12/Oct/2023",
         "amount": 1000
       },
       {
-        "date": "SOURABH",
+        "date": "12/Oct/2023",
         "amount": 1000
-      }
-    ]
-  },
-  {
-    "donner": "10,000",
-    "totalTransactions": 4,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "KUMAR ROY",
-        "amount": null
       },
       {
-        "date": "KUMAR ROY",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 1000
       },
       {
-        "date": "KUMAR ROY",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 10000
       },
       {
-        "date": "KUMAR ROY",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "1,000",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "KUMAR ROY",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 100000
       },
       {
-        "date": "KUMAR ROY",
-        "amount": null
+        "date": "12/Oct/2023",
+        "amount": 1000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 1000
       }
     ]
   },
@@ -80324,67 +80060,135 @@
     ]
   },
   {
-    "donner": "VS TOWERS",
-    "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "VS TOWERS CONTRACTORS PRIVATE LIM",
+    "totalTransactions": 5,
+    "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
     "transactions": [
       {
         "date": "12/Oct/2023",
-        "amount": null
+        "amount": 1000000
       },
       {
         "date": "12/Oct/2023",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "CONTRACTORS PRIVATE LIM",
-    "totalTransactions": 1,
-    "totalAmount": 1000000,
-    "totalAmountString": "₹10,00,000",
-    "transactions": [
+        "amount": 1000000
+      },
       {
-        "date": "VS TOWERS",
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "12/Oct/2023",
         "amount": 1000000
       }
     ]
   },
   {
-    "donner": "CONSULTANCY LLP",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "donner": "YOGESH MANNALAL AGRAWAL",
+    "totalTransactions": 5,
+    "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
     "transactions": [
       {
-        "date": "YUVAN TRADING",
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "donner": "YUVAN TRADING CONSULTANCY LLP",
+    "totalTransactions": 5,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
+    "transactions": [
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "12/Oct/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
         "amount": 10000000
       }
     ]
   },
   {
-    "donner": "YUVAN TRADING",
+    "donner": "AJIT KUMAR JAIN",
     "totalTransactions": 2,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "totalAmount": 200000,
+    "totalAmountString": "₹2,00,000",
     "transactions": [
       {
-        "date": "12/Oct/2023",
-        "amount": null
+        "date": "13/Oct/2023",
+        "amount": 100000
       },
       {
-        "date": "17/Nov/2023",
-        "amount": null
+        "date": "13/Oct/2023",
+        "amount": 100000
+      }
+    ]
+  },
+  {
+    "donner": "AMRITA AGARWAL",
+    "totalTransactions": 3,
+    "totalAmount": 300000,
+    "totalAmountString": "₹3,00,000",
+    "transactions": [
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
       }
     ]
   },
   {
     "donner": "AYUSH JAIN",
-    "totalTransactions": 1,
-    "totalAmount": 100000,
-    "totalAmountString": "₹1,00,000",
+    "totalTransactions": 2,
+    "totalAmount": 200000,
+    "totalAmountString": "₹2,00,000",
     "transactions": [
+      {
+        "date": "13/Oct/2023",
+        "amount": 100000
+      },
       {
         "date": "13/Oct/2023",
         "amount": 100000
@@ -80816,37 +80620,21 @@
     ]
   },
   {
-    "donner": "ASHOK",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "ASHOK KUMAR MODI",
+    "totalTransactions": 3,
+    "totalAmount": 30000000,
+    "totalAmountString": "₹3,00,00,000",
     "transactions": [
       {
         "date": "07/Nov/2023",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "07/Nov/2023",
-    "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
+        "amount": 10000000
+      },
       {
-        "date": "1,00,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "KUMAR MODI",
-    "totalTransactions": 1,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
-    "transactions": [
+        "date": "07/Nov/2023",
+        "amount": 10000000
+      },
       {
-        "date": "ASHOK",
+        "date": "07/Nov/2023",
         "amount": 10000000
       }
     ]
@@ -81860,86 +81648,14 @@
     ]
   },
   {
-    "donner": "DESAI TRADING",
+    "donner": "DESAI TRADING CONSULTANTS PVT LTD",
     "totalTransactions": 1,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "totalAmount": 10000000,
+    "totalAmountString": "₹1,00,00,000",
     "transactions": [
       {
         "date": "16/Nov/2023",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "16/Nov/2023",
-    "totalTransactions": 16,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
-    "transactions": [
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "10,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,000",
-        "amount": null
+        "amount": 10000000
       }
     ]
   },
@@ -82484,261 +82200,125 @@
     ]
   },
   {
-    "donner": "LAXMIDAS VALLABHDAS",
-    "totalTransactions": 8,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "LAXMIDAS VALLABHDAS ASMITA MERCHA",
+    "totalTransactions": 24,
+    "totalAmount": 240000000,
+    "totalAmountString": "₹24,00,00,000",
     "transactions": [
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
       },
       {
         "date": "17/Nov/2023",
-        "amount": null
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "17/Nov/2023",
+        "amount": 10000000
       }
     ]
   },
   {
-    "donner": "17/Nov/2023",
-    "totalTransactions": 43,
-    "totalAmount": null,
-    "totalAmountString": "₹NaN",
+    "donner": "PRASAD AND COMPANY PRIVATE LIMITED",
+    "totalTransactions": 3,
+    "totalAmount": 30000000,
+    "totalAmountString": "₹3,00,00,000",
     "transactions": [
       {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      },
-      {
-        "date": "1,00,00,000",
-        "amount": null
-      }
-    ]
-  },
-  {
-    "donner": "ASMITA MERCHA",
-    "totalTransactions": 8,
-    "totalAmount": 80000000,
-    "totalAmountString": "₹8,00,00,000",
-    "transactions": [
-      {
-        "date": "LAXMIDAS VALLABHDAS",
+        "date": "17/Nov/2023",
         "amount": 10000000
       },
       {
-        "date": "LAXMIDAS VALLABHDAS",
+        "date": "17/Nov/2023",
         "amount": 10000000
       },
       {
-        "date": "LAXMIDAS VALLABHDAS",
-        "amount": 10000000
-      },
-      {
-        "date": "LAXMIDAS VALLABHDAS",
-        "amount": 10000000
-      },
-      {
-        "date": "LAXMIDAS VALLABHDAS",
-        "amount": 10000000
-      },
-      {
-        "date": "LAXMIDAS VALLABHDAS",
-        "amount": 10000000
-      },
-      {
-        "date": "LAXMIDAS VALLABHDAS",
-        "amount": 10000000
-      },
-      {
-        "date": "LAXMIDAS VALLABHDAS",
+        "date": "17/Nov/2023",
         "amount": 10000000
       }
     ]
@@ -82952,6 +82532,58 @@
     ]
   },
   {
+    "donner": "ABIS AGROTECH PVT LTD",
+    "totalTransactions": 5,
+    "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
+    "transactions": [
+      {
+        "date": "18/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 1000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "donner": "G S ISPAT",
+    "totalTransactions": 4,
+    "totalAmount": 40000000,
+    "totalAmountString": "₹4,00,00,000",
+    "transactions": [
+      {
+        "date": "18/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 10000000
+      },
+      {
+        "date": "18/Nov/2023",
+        "amount": 10000000
+      }
+    ]
+  },
+  {
     "donner": "SRI SIDDHARTH INFRATECH & SERVICES(I) PVT LTD",
     "totalTransactions": 9,
     "totalAmount": 9000000,
@@ -83077,14 +82709,10 @@
   },
   {
     "donner": "OSTRO JAISALMER PRIVATE LIMITED",
-    "totalTransactions": 17,
-    "totalAmount": 170000000,
-    "totalAmountString": "₹17,00,00,000",
+    "totalTransactions": 16,
+    "totalAmount": 160000000,
+    "totalAmountString": "₹16,00,00,000",
     "transactions": [
-      {
-        "date": "20/Nov/2023",
-        "amount": 10000000
-      },
       {
         "date": "20/Nov/2023",
         "amount": 10000000
@@ -83153,10 +82781,14 @@
   },
   {
     "donner": "OSTRO MADHYA WIND PRIVATE LIMITED",
-    "totalTransactions": 16,
-    "totalAmount": 160000000,
-    "totalAmountString": "₹16,00,00,000",
+    "totalTransactions": 17,
+    "totalAmount": 170000000,
+    "totalAmountString": "₹17,00,00,000",
     "transactions": [
+      {
+        "date": "20/Nov/2023",
+        "amount": 10000000
+      },
       {
         "date": "20/Nov/2023",
         "amount": 10000000
@@ -83502,12 +83134,12 @@
   {
     "donner": "PLUTO FINANCE PRIVATE LTD.",
     "totalTransactions": 11,
-    "totalAmount": 6500000,
-    "totalAmountString": "₹65,00,000",
+    "totalAmount": 7400000,
+    "totalAmountString": "₹74,00,000",
     "transactions": [
       {
         "date": "04/Jan/2024",
-        "amount": 100000
+        "amount": 1000000
       },
       {
         "date": "04/Jan/2024",
@@ -83941,10 +83573,14 @@
   },
   {
     "donner": "ENVIRO CONTROL PRIVATE LIMITED FORM",
-    "totalTransactions": 9,
-    "totalAmount": 90000000,
-    "totalAmountString": "₹9,00,00,000",
+    "totalTransactions": 10,
+    "totalAmount": 100000000,
+    "totalAmountString": "₹10,00,00,000",
     "transactions": [
+      {
+        "date": "08/Jan/2024",
+        "amount": 10000000
+      },
       {
         "date": "08/Jan/2024",
         "amount": 10000000
@@ -83985,14 +83621,10 @@
   },
   {
     "donner": "TPK PARTNERS",
-    "totalTransactions": 10,
-    "totalAmount": 10000000,
-    "totalAmountString": "₹1,00,00,000",
+    "totalTransactions": 9,
+    "totalAmount": 9000000,
+    "totalAmountString": "₹90,00,000",
     "transactions": [
-      {
-        "date": "08/Jan/2024",
-        "amount": 1000000
-      },
       {
         "date": "08/Jan/2024",
         "amount": 1000000
@@ -84033,10 +83665,14 @@
   },
   {
     "donner": "BIOVET PVT LTD",
-    "totalTransactions": 4,
-    "totalAmount": 40000000,
-    "totalAmountString": "₹4,00,00,000",
+    "totalTransactions": 5,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
+      {
+        "date": "09/Jan/2024",
+        "amount": 10000000
+      },
       {
         "date": "09/Jan/2024",
         "amount": 10000000
@@ -84089,14 +83725,10 @@
   },
   {
     "donner": "JAINENDRA PRAVINCHANDRA SHAH",
-    "totalTransactions": 9,
-    "totalAmount": 9000000,
-    "totalAmountString": "₹90,00,000",
+    "totalTransactions": 8,
+    "totalAmount": 8000000,
+    "totalAmountString": "₹80,00,000",
     "transactions": [
-      {
-        "date": "09/Jan/2024",
-        "amount": 1000000
-      },
       {
         "date": "09/Jan/2024",
         "amount": 1000000
@@ -84813,9 +84445,9 @@
   },
   {
     "donner": "SRI CHAITANYA STUDENTS FACILITY MANAGEME",
-    "totalTransactions": 15,
-    "totalAmount": 60000000,
-    "totalAmountString": "₹6,00,00,000",
+    "totalTransactions": 14,
+    "totalAmount": 50000000,
+    "totalAmountString": "₹5,00,00,000",
     "transactions": [
       {
         "date": "11/Jan/2024",
@@ -84868,10 +84500,6 @@
       {
         "date": "11/Jan/2024",
         "amount": 1000000
-      },
-      {
-        "date": "11/Jan/2024",
-        "amount": 10000000
       },
       {
         "date": "11/Jan/2024",
@@ -84881,10 +84509,14 @@
   },
   {
     "donner": "SYLVANUS BUILDERS AND DEVELOPERS LI",
-    "totalTransactions": 4,
-    "totalAmount": 4000000,
-    "totalAmountString": "₹40,00,000",
+    "totalTransactions": 5,
+    "totalAmount": 5000000,
+    "totalAmountString": "₹50,00,000",
     "transactions": [
+      {
+        "date": "11/Jan/2024",
+        "amount": 1000000
+      },
       {
         "date": "11/Jan/2024",
         "amount": 1000000

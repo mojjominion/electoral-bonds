@@ -1,3 +1,7 @@
+export function isName(str) {
+  return !str.split("").some((x) => "0123456789,.".includes(x));
+}
+
 export function grouper(getKey) {
   return (acc, cur) => {
     const key = getKey(cur);
