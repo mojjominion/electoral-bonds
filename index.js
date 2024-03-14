@@ -45,12 +45,15 @@ function flush(data, name) {
   });
 }
 
-async function run() {
-  // const donners = await reader("./donners.pdf");
-  // const parties = await reader("./parties.pdf", 4);
-  // flush(donners, "donners");
-  // flush(parties, "parties");
+async function processPdfs() {
+  const donners = await reader("./donners.pdf");
+  const parties = await reader("./parties.pdf", 4);
 
+  flush(donners, "donners");
+  flush(parties, "parties");
+}
+
+async function run() {
   const donners = await readJsonFile("./out/donners.json");
   const parties = await readJsonFile("./out/parties.json");
   const d = donner_aggregate(donners);
