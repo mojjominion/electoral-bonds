@@ -1,0 +1,11 @@
+{
+  "name": "bonds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohan <lmohan717@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "pdfjs-dist": "^4.0.379"
+  }
+}
