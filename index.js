@@ -1,6 +1,6 @@
 import { readFileSync, writeFile } from "fs";
 import { getDocument } from "pdfjs-dist";
-import { aggregate } from "./util.js";
+import { donner_aggregate, party_aggregate } from "./util.js";
 import { readJsonFile } from "./json.js";
 
 async function reader(filePath, isParty = false) {
@@ -53,10 +53,11 @@ async function run() {
 
   const donners = await readJsonFile("./out/donners.json");
   const parties = await readJsonFile("./out/parties.json");
-  const d = aggregate(donners);
-  const p = aggregate(parties);
+  const d = donner_aggregate(donners);
+  const p = party_aggregate(parties);
+
   flush(d, "donner_wise");
-  flush(d, "donner_wise");
+  flush(p, "party_wise");
 }
 
 run();

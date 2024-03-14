@@ -14,7 +14,11 @@ export function grouper(getKey) {
   };
 }
 
-export function aggregate(data = []) {
+function extractMoney(str) {
+  return +str.replaceAll(",", "");
+}
+
+export function donner_aggregate(data = []) {
   const aggregated = Object.entries(
     data.reduce(
       grouper((x) => x.donner),
@@ -22,8 +26,31 @@ export function aggregate(data = []) {
     ),
   ).map(([, lst]) => ({
     donner: lst[0].donner,
-    transactionDates: lst.map((x) => x.date),
-    value: lst.reduce((a, c) => a + +c.value.replaceAll(",", ""), 0),
+    totalTransactions: lst.length,
+    totalAmount: lst.reduce((a, c) => a + extractMoney(c.value), 0),
+    transactions: lst.map((x) => ({
+      date: x.date,
+      amount: extractMoney(x.value),
+    })),
+  }));
+
+  return aggregated;
+}
+
+export function party_aggregate(data = []) {
+  const aggregated = Object.entries(
+    data.reduce(
+      grouper((x) => x.party),
+      {},
+    ),
+  ).map(([, lst]) => ({
+    party: lst[0].party,
+    totalTransactions: lst.length,
+    totalAmount: lst.reduce((a, c) => a + extractMoney(c.value), 0),
+    transactions: lst.map((x) => ({
+      date: x.date,
+      amount: extractMoney(x.value),
+    })),
   }));
 
   return aggregated;
