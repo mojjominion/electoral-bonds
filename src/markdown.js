@@ -2,6 +2,7 @@ import tablemark from "tablemark";
 import { flush } from "./flush.js";
 import { percent, formatter } from "../util.js";
 import { readJsonFile } from "../json.js";
+import { appendFile } from "fs";
 
 function setTotal(data) {
   const amount = data.reduce((a, c) => a + c.totalAmount, 0);
@@ -54,7 +55,21 @@ export async function convertToMarkdown() {
   );
 
   flush(d, "donners", "md", ".");
-  flush(p, "parties", "md", ".");
+  flush(p, "README", "md", ".");
+  appendToMarkdownFile(
+    "README.md",
+    "\n\n- Donners List [donners](./donners.md)",
+  );
+}
+
+function appendToMarkdownFile(filePath, line) {
+  appendFile(filePath, line + "\n", (err) => {
+    if (err) {
+      console.error("Error appending to file:", err);
+    } else {
+      console.log("Line added successfully!");
+    }
+  });
 }
 
 await convertToMarkdown();
