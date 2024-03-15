@@ -1,6 +1,5 @@
-# Electoral bonds donnners 
+# Electoral bonds donnners
 
-
-- Donners List [donners](./donners.md) 
+- Donners List [donners](./donners.md)
 
 - Parties List [parties](./parties.md)
