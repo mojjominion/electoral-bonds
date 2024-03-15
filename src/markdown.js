@@ -1,8 +1,21 @@
 import tablemark from "tablemark";
 import { flush } from "./flush.js";
-import { percent } from "../util.js";
+import { percent, formatter } from "../util.js";
 import { readJsonFile } from "../json.js";
 
+function setTotal(data) {
+  const amount = data.reduce((a, c) => a + c.totalAmount, 0);
+  const transactions = data.reduce((a, c) => a + c.totalTransactions, 0);
+  // data.push({
+  //   donner: "Total",
+  //   totalAmount: amount,
+  //   totalAmountString: formatter.format(amount),
+  //   totalTransactions: transactions,
+  //   percentage: "",
+  // });
+
+  return { amount };
+}
 export async function convertToMarkdown() {
   const donners = await readJsonFile("out/donner_wise.json");
   const parties = await readJsonFile("out/party_wise.json");
@@ -12,25 +25,27 @@ export async function convertToMarkdown() {
     wrapWithGutters: true,
   };
 
-  const donnersTotal = donners.reduce((a, c) => a + c.totalAmount, 0);
-  const partiesTotal = parties.reduce((a, c) => a + c.totalAmount, 0);
+  const { amount: partyAmount } = setTotal(parties);
+  const { amount: donnerAmount } = setTotal(donners);
 
   const d = tablemark(
-    donners.map((x) => ({
+    donners.map((x, i) => ({
+      serial: i + 1,
       donner: x.donner,
       totalAmount: x.totalAmountString,
       totalTransactions: x.totalTransactions,
-      percentage: percent(x.totalAmount, donnersTotal),
+      percentage: percent(x.totalAmount, donnerAmount),
     })),
     ops,
   );
 
   const p = tablemark(
-    parties.map((x) => ({
+    parties.map((x, i) => ({
+      serial: i + 1,
       party: x.party,
       totalAmount: x.totalAmountString,
       totalTransactions: x.totalTransactions,
-      percentage: percent(x.totalAmount, partiesTotal),
+      percentage: percent(x.totalAmount, partyAmount),
     })),
     ops,
   );
