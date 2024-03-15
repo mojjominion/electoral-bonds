@@ -33,13 +33,23 @@ function extractMoney(str) {
   return +str.replaceAll(",", "");
 }
 
+function getDonnerKey(item) {
+  return item.donner
+    .replaceAll(" ", "")
+    .replaceAll("PVT", "")
+    .replaceAll("LTD", "")
+    .replaceAll("PRIVATE", "")
+    .replaceAll("LIMITED", "")
+    .replaceAll("&", "")
+    .replaceAll("AND", "")
+    .replaceAll("PR", "")
+    .replaceAll(",", "")
+    .replaceAll(".", "")
+    .trim();
+}
+
 export function donner_aggregate(data = []) {
-  const aggregated = Object.entries(
-    data.reduce(
-      grouper((x) => x.donner),
-      {},
-    ),
-  )
+  const aggregated = Object.entries(data.reduce(grouper(getDonnerKey), {}))
     .map(([, lst]) => {
       const totalAmount = lst.reduce((a, c) => a + extractMoney(c.value), 0);
       return {

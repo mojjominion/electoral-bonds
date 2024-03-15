@@ -8,7 +8,7 @@
   "scripts": {
     "pdf": "node src/process-pdf.js",
     "json": "node index.js",
-    "bootstrap": "yarn pdf; yarn json"
+    "bootstrap": "yarn pdf; yarn json; node src/markdown.js"
   },
   "dependencies": {
     "canvas": "^2.11.2",

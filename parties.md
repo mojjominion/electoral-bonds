@@ -27,5 +27,5 @@
 | 25     | JAMMU AND KASHMIR NATIONAL CONFERENCE          | ₹50,00,000         | 5                  | 0.0039979%  |
 | 26     | NATIONALIST CONGRESS PARTY MAHARASHTRA PRADESH | ₹50,00,000         | 5                  | 0.0039979%  |
 | 27     | GOA FORWARD PARTY                              | ₹34,00,000         | 16                 | 0.0027186%  |
-|        |                                                |                    |                    | NaN%        |
+| 28     |                                                |                    |                    | NaN%        |
 | 29     | Total                                          | ₹1,25,06,59,50,000 | 19995              | 100%        |
