@@ -6,13 +6,16 @@ import { readJsonFile } from "../json.js";
 function setTotal(data) {
   const amount = data.reduce((a, c) => a + c.totalAmount, 0);
   const transactions = data.reduce((a, c) => a + c.totalTransactions, 0);
-  // data.push({
-  //   donner: "Total",
-  //   totalAmount: amount,
-  //   totalAmountString: formatter.format(amount),
-  //   totalTransactions: transactions,
-  //   percentage: "",
-  // });
+
+  data.push({});
+  data.push({
+    donner: "Total",
+    party: "Total",
+    totalAmount: amount,
+    totalAmountString: formatter.format(amount),
+    totalTransactions: transactions,
+    percentage: "",
+  });
 
   return { amount };
 }
