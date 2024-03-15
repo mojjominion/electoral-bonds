@@ -1,3 +1,6 @@
 # Electoral bonds donnners 
 
-![Pie Chart](./pieChart.png)
+
+- Donners List [donners](./donner.md) 
+
+- Parties List [parties](./parties.md)

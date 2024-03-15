@@ -1,8 +1,8 @@
-import { createCanvas, loadImage } from "canvas";
+import { createCanvas } from "canvas";
 import { writeFileSync } from "fs";
 import { readJsonFile } from "./json.js";
 
-import { formatter } from "./util.js";
+import { formatter, percent } from "./util.js";
 
 function generateDistinctRandomColors(count) {
   const colors = [];
@@ -37,8 +37,8 @@ function calculateDistance(color1, color2) {
 
 async function createChart() {
   const donnerWise = await readJsonFile("./out/donner_wise.json");
-  donnerWise.sort((a, b) => -a.totalAmount + b.totalAmount);
-  const index = 5;
+  const totalAmount = donnerWise.reduce((a, c) => a + c.totalAmount, 0);
+  const index = 50;
   const sliced = donnerWise.slice(0, index);
   const remaining = donnerWise
     .slice(index)
@@ -54,7 +54,7 @@ async function createChart() {
       totalAmountString: formatter.format(remaining),
     },
   ].map((x, i) => ({
-    label: `${x.donner} [${x.totalAmountString}]`,
+    label: `${x.donner} [${percent(x.totalAmount, totalAmount)}]`,
     value: x.totalAmount,
     color: colors[i],
   }));

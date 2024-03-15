@@ -5,8 +5,13 @@
   "author": "Mohan <lmohan717@gmail.com>",
   "type": "module",
   "license": "MIT",
+  "scripts": {
+    "pdf": "node src/process-pdf.js",
+    "json": "node index.js"
+  },
   "dependencies": {
     "canvas": "^2.11.2",
-    "pdfjs-dist": "^4.0.379"
+    "pdfjs-dist": "^4.0.379",
+    "tablemark": "^3.0.0"
   }
 }
