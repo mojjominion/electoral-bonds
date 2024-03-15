@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "pdf": "node src/process-pdf.js",
-    "json": "node index.js"
+    "json": "node index.js",
+    "bootstrap": "yarn pdf; yarn json"
   },
   "dependencies": {
     "canvas": "^2.11.2",

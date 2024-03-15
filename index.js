@@ -11,4 +11,4 @@ async function run() {
   flush(d, "donner_wise");
   flush(p, "party_wise");
 }
-run();
+await run();

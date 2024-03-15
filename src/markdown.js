@@ -57,4 +57,4 @@ export async function convertToMarkdown() {
   flush(p, "parties", "md", ".");
 }
 
-convertToMarkdown();
+await convertToMarkdown();

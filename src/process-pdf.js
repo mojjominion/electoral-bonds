@@ -8,4 +8,4 @@ export async function processPdfs() {
   flush(donners, "donners");
   flush(parties, "parties");
 }
-processPdfs();
+await processPdfs();
