@@ -8,7 +8,7 @@ export async function convertToMarkdown() {
   const parties = await readJsonFile("out/party_wise.json");
 
   const ops = {
-    wrapWidth: 30,
+    wrapWidth: 100,
     wrapWithGutters: true,
   };
 
@@ -35,7 +35,7 @@ export async function convertToMarkdown() {
     ops,
   );
 
-  flush(d, "donner", "md", ".");
+  flush(d, "donners", "md", ".");
   flush(p, "parties", "md", ".");
 }
 
