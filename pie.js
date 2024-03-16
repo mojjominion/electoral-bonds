@@ -1,6 +1,6 @@
 import { createCanvas } from "canvas";
 import { writeFileSync } from "fs";
-import { readJsonFile } from "./json.js";
+import { readJsonFile } from "./src/json.js";
 
 import { formatter, percent } from "./util.js";
 

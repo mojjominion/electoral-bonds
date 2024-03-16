@@ -92,3 +92,32 @@ export function party_aggregate(data = []) {
 
   return aggregated;
 }
+export function date_party_aggregate(data = []) {
+  return Object.entries(
+    data.reduce(
+      grouper((x) => x.date.slice(3)),
+      {},
+    ),
+  ).map(([, monthItems]) =>
+    Object.entries(
+      monthItems.reduce(
+        grouper((x) => x.party),
+        {},
+      ),
+    )
+      .map(([, lst]) => {
+        const totalAmount = lst.reduce((a, c) => a + extractMoney(c.value), 0);
+        return {
+          party: lst[0].party,
+          totalTransactions: lst.length,
+          totalAmount,
+          totalAmountString: formatter.format(totalAmount),
+          transactions: lst.map((x) => ({
+            date: x.date,
+            amount: extractMoney(x.value),
+          })),
+        };
+      })
+      .sort((a, b) => b.totalAmount - a.totalAmount),
+  );
+}
