@@ -2,17 +2,23 @@ import tablemark from "tablemark";
 import { flush } from "./flush.js";
 import { percent, formatter } from "../util.js";
 import { readJsonFile } from "./json.js";
-import { appendFile, appendFileSync } from "fs";
-import { table } from "console";
+import { appendFile, promises } from "fs";
 
-function appendToMarkdownFile(filePath, line) {
-  appendFile(filePath, line + "\n", (err) => {
+const ops = {
+  wrapWidth: 100,
+  wrapWithGutters: true,
+};
+
+async function appendToMarkdownFile(filePath, line) {
+  try {
+    await promises.appendFile(filePath, line + "\n");
+  } catch (err) {
     if (err) {
       console.error("Error appending to file:", err);
     } else {
       console.log("Line added successfully!");
     }
-  });
+  }
 }
 
 function setTotal(data) {
@@ -44,35 +50,36 @@ function mapper(data = []) {
   }));
 }
 
+async function appendData(fileName, data, overall) {
+  // create README.md
+  const file = fileName.split(".");
+  const title = overall.length ? "# Overall\n\n" : "## Month wise data\n\n";
+  await flush(title, file[0], file[1], ".");
+  await appendToMarkdownFile(fileName, overall);
+
+  for (const list of data) {
+    const header = `\n\n\n## ${list[0].transactions[0].date.slice(3).replace("/", " ")}`;
+    await appendToMarkdownFile(fileName, header);
+    await appendToMarkdownFile(fileName, tablemark(mapper(list), ops));
+  }
+}
+
 export async function convertToMarkdown() {
+  // Donners
   const donners = await readJsonFile("out/donner_wise.json");
+  const dateDonners = await readJsonFile("out/date_donner_wise.json");
+  await flush(tablemark(mapper(donners), ops), "donners", "md", ".");
+  await appendData("DATE_DONNERS.md", dateDonners, "");
+  await appendToMarkdownFile(
+    "DATE_DONNERS.md",
+    "\n\n- Donners List [donners](./donners.md)\n\n\n",
+  );
+
+  // Parties
   const parties = await readJsonFile("out/party_wise.json");
   const dateParties = await readJsonFile("out/date_party_wise.json");
-
-  const ops = {
-    wrapWidth: 100,
-    wrapWithGutters: true,
-  };
-
-  const d = tablemark(mapper(donners), ops);
-  const p = tablemark(mapper(parties), ops);
-  flush(d, "donners", "md", ".");
-
-  // create README.md
-  flush("# Overall\n\n", "README", "md", ".");
-  appendToMarkdownFile("README.md", p.toString());
-
-  for (const list of dateParties) {
-    if (!list.length) continue;
-    appendToMarkdownFile(
-      "README.md",
-      `\n\n\n## ${list[0].transactions[0].date.slice(3).replace("/", " ")}`,
-    );
-    const dp = tablemark(mapper(list), ops);
-    appendToMarkdownFile("README.md", dp.toString());
-  }
-
-  appendToMarkdownFile(
+  await appendData("README.md", dateParties, tablemark(mapper(parties), ops));
+  await appendToMarkdownFile(
     "README.md",
     "\n\n- Donners List [donners](./donners.md)\n\n\n",
   );
