@@ -1,11 +1,11 @@
 import tablemark from "tablemark";
 import { flush } from "./flush.js";
-import { percent, formatter } from "../util.js";
+import { percent, formatter, grouper } from "../util.js";
 import { readJsonFile } from "./json.js";
 import { appendFile, promises } from "fs";
 
 const ops = {
-  wrapWidth: 100,
+  wrapWidth: 150,
   wrapWithGutters: true,
 };
 
@@ -39,14 +39,13 @@ function setTotal(data) {
 }
 
 function mapper(data = []) {
-  const isParty = data.some((x) => x.party);
-  const { amount } = setTotal(data);
   return data.map((x, i) => ({
     serial: x.totalAmount ? i + 1 : "",
-    [isParty ? "party" : "donner"]: isParty ? x.party : x.donner,
+    donnner: x.donner,
+    party: x.party,
     totalAmount: x.totalAmountString,
     totalTransactions: x.totalTransactions,
-    percentage: x.totalAmount ? percent(x.totalAmount, amount) : "",
+    // percentage: x.totalAmount ? percent(x.totalAmount, amount) : "",
   }));
 }
 
@@ -65,20 +64,29 @@ async function appendData(fileName, data, overall) {
 }
 
 export async function convertToMarkdown() {
-  // Donners
-  const donners = await readJsonFile("out/donner_wise.json");
-  const dateDonners = await readJsonFile("out/date_donner_wise.json");
-  await flush(tablemark(mapper(donners), ops), "donners", "md", ".");
-  await appendData("DATE_DONNERS.md", dateDonners, "");
-  await appendToMarkdownFile(
-    "DATE_DONNERS.md",
-    "\n\n- Donners List [donners](./donners.md)\n\n\n",
+  // Parties
+  const collatedData = await readJsonFile("out/encashed.json");
+  const grouped = Object.values(
+    collatedData.reduce(
+      grouper((x) => x.party),
+      {},
+    ),
+  ).sort(
+    (a, b) =>
+      b.reduce((a, x) => a + x.totalAmount, 0) -
+      a.reduce((a, y) => a + y.totalAmount, 0),
   );
 
-  // Parties
-  const parties = await readJsonFile("out/party_wise.json");
-  const dateParties = await readJsonFile("out/date_party_wise.json");
-  await appendData("README.md", dateParties, tablemark(mapper(parties), ops));
+  const fileName = "README.md";
+  const file = fileName.split(".");
+  await flush("Party wise data", file[0], file[1], ".");
+  for (const list of grouped) {
+    const header = `\n\n\n## ${list[0].party}`;
+    await appendToMarkdownFile(fileName, header);
+    const data = list.sort((a, b) => b.totalAmount - a.totalAmount);
+    setTotal(data);
+    await appendToMarkdownFile(fileName, tablemark(mapper(data), ops));
+  }
   await appendToMarkdownFile(
     "README.md",
     "\n\n- Donners List [donners](./donners.md)\n\n\n",

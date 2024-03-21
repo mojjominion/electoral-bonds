@@ -34,6 +34,7 @@ function extractMoney(str) {
 }
 
 function getDonnerKey(item) {
+  if (!item.donner) return "NONE";
   return item.donner
     .replaceAll(" ", "")
     .replaceAll("PVT", "")
@@ -108,4 +109,48 @@ export function date_party_aggregate(data = []) {
       {},
     ),
   ).map(([, monthItems]) => party_aggregate(monthItems));
+}
+
+export function aggregate(donners = [], parties = []) {
+  const bondKey = (x) => x.prefix + x.bondNumber;
+  const expired = [];
+  const encashed = donners.reduce((a, c) => {
+    if (c.status.toLowerCase() == "expired") {
+      expired.push(c);
+      return a;
+    }
+    a[bondKey(c)] = c;
+    return a;
+  }, {});
+
+  for (const x of parties) {
+    const key = bondKey(x);
+    encashed[key] = { ...(encashed[key] ?? {}), ...x };
+  }
+
+  const aggregated = Object.entries(
+    Object.values(encashed).reduce(
+      grouper((x) => x.party + getDonnerKey(x)),
+      {},
+    ),
+  )
+    .map(([, lst]) => {
+      const totalAmount = lst.reduce((a, c) => a + extractMoney(c.value), 0);
+      return {
+        donner: lst[0].donner ?? "Unknown",
+        party: lst[0].party,
+        totalAmount,
+        totalAmountString: formatter.format(totalAmount),
+        totalTransactions: lst.length,
+        transactions: lst.map((x) => ({
+          prefix: x.prefix,
+          bondNumber: x.bondNumber,
+          value: x.value,
+          date: x.date,
+        })),
+      };
+    })
+    .sort((a, b) => b.totalAmount - a.totalAmount);
+
+  return { encashed: aggregated, expired };
 }

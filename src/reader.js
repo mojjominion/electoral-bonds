@@ -44,25 +44,10 @@ export async function reader(filePath, isParty = false) {
   return rows;
 }
 
-const purchaserColumns = [
-  "serialNo",
-  "urn",
-  "journalDate",
-  "date",
-  "dateOfExpiry",
-  "donner",
-  "prefix",
-  "bondNumber",
-  "value",
-  "issueBranchCode",
-  "issueTeller",
-  "status",
-];
-
 function splitIndexes(data = [], start) {
   const indexes = [];
   for (let i = 0; i < data.length; i++) {
-    if (+data[i] == start + 1) {
+    if (+data[i] == start + 1 && data[i].length === `${start + 1}`.length) {
       indexes.push(i);
       start++;
     }
@@ -70,7 +55,7 @@ function splitIndexes(data = [], start) {
   return indexes;
 }
 
-export async function exhaustiveReader(filePath) {
+export async function exhaustiveReader(filePath, columns) {
   // Read the PDF file
   const pdfData = new Uint8Array(readFileSync(filePath));
   const rows = [];
@@ -98,7 +83,7 @@ export async function exhaustiveReader(filePath) {
         const nextIndex = indexes[j + 1];
         const cells = pageText.slice(curIndex, nextIndex);
         const obj = cells.reduce((acc, cur, index) => {
-          purchaserColumns[index] && (acc[purchaserColumns[index]] = cur);
+          columns[index] && (acc[columns[index]] = cur);
           return acc;
         }, {});
         rows.push(obj);
