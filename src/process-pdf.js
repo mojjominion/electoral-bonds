@@ -1,11 +1,11 @@
 import { flush } from "./flush.js";
-import { exhaustiveReader } from "./reader.js";
+import { reader } from "./reader.js";
 
 const purchasersColumns = [
   "serialNo",
   "urn",
   "journalDate",
-  "date",
+  "dateOfPurchase",
   "dateOfExpiry",
   "donner",
   "prefix",
@@ -18,7 +18,7 @@ const purchasersColumns = [
 
 const redeemersColumns = [
   "serialNo",
-  "date",
+  "dateOfEncashment",
   "party",
   "accountNumber",
   "prefix",
@@ -29,14 +29,8 @@ const redeemersColumns = [
 ];
 
 export async function processPdfs() {
-  const purchasers = await exhaustiveReader(
-    "input/purchasers.pdf",
-    purchasersColumns,
-  );
-  const redeemers = await exhaustiveReader(
-    "input/redeemers.pdf",
-    redeemersColumns,
-  );
+  const purchasers = await reader("input/purchasers.pdf", purchasersColumns);
+  const redeemers = await reader("input/redeemers.pdf", redeemersColumns);
   flush(purchasers, "donners");
   flush(redeemers, "parties");
 }

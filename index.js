@@ -31,4 +31,5 @@ async function merge() {
   flush(encashed, "encashed");
   flush(expired, "expired");
 }
+
 await merge();

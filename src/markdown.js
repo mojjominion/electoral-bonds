@@ -65,30 +65,19 @@ async function appendData(fileName, data, overall) {
 
 export async function convertToMarkdown() {
   // Parties
-  const collatedData = await readJsonFile("out/encashed.json");
-  const grouped = Object.values(
-    collatedData.reduce(
-      grouper((x) => x.party),
-      {},
-    ),
-  ).sort(
-    (a, b) =>
-      b.reduce((a, x) => a + x.totalAmount, 0) -
-      a.reduce((a, y) => a + y.totalAmount, 0),
-  );
-
-  const fileName = "README.md";
+  const fileName = "DATE_WISE_COLLATED.md";
   const file = fileName.split(".");
-  await flush("Party wise data", file[0], file[1], ".");
-  for (const list of grouped) {
-    const header = `\n\n\n## ${list[0].party}`;
-    await appendToMarkdownFile(fileName, header);
+  const collatedData = await readJsonFile("out/encashed.json");
+  await flush("# Party wise data", file[0], file[1], ".");
+  for (const list of collatedData) {
     const data = list.sort((a, b) => b.totalAmount - a.totalAmount);
     setTotal(data);
-    await appendToMarkdownFile(fileName, tablemark(mapper(data), ops));
+    const header = `\n\n\n## ${list[0].transactions[0].date.slice(3).replace("/", " ")}`;
+    await appendToMarkdownFile(fileName, header);
+    await appendToMarkdownFile(fileName, tablemark(mapper(list), ops));
   }
   await appendToMarkdownFile(
-    "README.md",
+    fileName,
     "\n\n- Donners List [donners](./donners.md)\n\n\n",
   );
 }

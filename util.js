@@ -113,6 +113,10 @@ export function date_party_aggregate(data = []) {
 
 export function aggregate(donners = [], parties = []) {
   const bondKey = (x) => x.prefix + x.bondNumber;
+  const donnerPartyKey = (x) => x.party + getDonnerKey(x);
+  const dateKey = (x) =>
+    (x.dateOfPurchase ?? x.dateOfEncashment).slice(3).toLowerCase();
+
   const expired = [];
   const encashed = donners.reduce((a, c) => {
     if (c.status.toLowerCase() == "expired") {
@@ -128,28 +132,32 @@ export function aggregate(donners = [], parties = []) {
     encashed[key] = { ...(encashed[key] ?? {}), ...x };
   }
 
-  const aggregated = Object.entries(
-    Object.values(encashed).reduce(
-      grouper((x) => x.party + getDonnerKey(x)),
-      {},
-    ),
+  const aggregated = Object.values(
+    Object.values(encashed).reduce(grouper(dateKey), {}),
   )
-    .map(([, lst]) => {
-      const totalAmount = lst.reduce((a, c) => a + extractMoney(c.value), 0);
-      return {
-        donner: lst[0].donner ?? "Unknown",
-        party: lst[0].party,
-        totalAmount,
-        totalAmountString: formatter.format(totalAmount),
-        totalTransactions: lst.length,
-        transactions: lst.map((x) => ({
-          prefix: x.prefix,
-          bondNumber: x.bondNumber,
-          value: x.value,
-          date: x.date,
-        })),
-      };
-    })
+    .map((dateList) =>
+      Object.values(dateList.reduce(grouper(donnerPartyKey), {})).map(
+        (collatedList) => {
+          const totalAmount = collatedList.reduce(
+            (a, c) => a + extractMoney(c.value),
+            0,
+          );
+          return {
+            donner: collatedList[0].donner ?? "Unknown",
+            party: collatedList[0].party,
+            totalAmount,
+            totalAmountString: formatter.format(totalAmount),
+            totalTransactions: collatedList.length,
+            transactions: collatedList.map((x) => ({
+              prefix: x.prefix,
+              bondNumber: x.bondNumber,
+              value: x.value,
+              date: x.dateOfPurchase ?? x.dateOfEncashment,
+            })),
+          };
+        },
+      ),
+    )
     .sort((a, b) => b.totalAmount - a.totalAmount);
 
   return { encashed: aggregated, expired };
